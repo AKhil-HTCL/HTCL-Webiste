@@ -55,26 +55,23 @@
                   </ul>
                 </div>
               </div>
-              <!--<div class="col-xl-3 col-md-6">
+             <div class="col-xl-3 col-md-6">
                 <div class="footer-widget footer-col-3 widget-nav-menu wow fadeInUp" data-wow-delay=".5s">
                   <h5 class="title">Resources</h5>
                   <ul>
-                    <li><a href="#">Contact us</a></li>
-                    <li><a href="#">Team Member</a></li>
-                    <li><a href="#">Recognitions</a></li>
-                    <li><a href="careers.html">Careers <span class="badge">New</span></a></li>
-                    <li><a href="#">News</a></li>
-                    <li><a href="#">Feedback</a></li>
-                  </ul>
+                    <li><a href="contact.php">Contact us</a></li>       
+                    <li><a href="investers.php">Investers</a></li>                               
+                    <li><a href="https://htcl.zohorecruit.in/jobs/Careers" target="_blank">Careers </a></li>
+                     </ul>
                 </div>
-              </div>-->
+              </div>
               <div class="col-xl-3 col-md-6">
                 <div class="footer-widget widget-contact wow fadeInUp" data-wow-delay=".7s">
                   <h5 class="title">Our Office</h5>
                   <div class="footer-contact-info">
                     <div class="contact-item">
-                      <span>Registered address: Prestige Cube, Hosur Road, Bengaluru, Karnataka 560030</span>
-                      <span>R & D: Davanam Park square, Hosur Rd, opp. Madiwala Traffic Police Station, Bengaluru, Karnataka 560068</span>
+                     <p> <span>Registered address: Prestige Cube, Hosur Road, Bengaluru, Karnataka 560030</span></p>
+                      <p><span>R & D: Davanam Park square, Hosur Rd, opp. Madiwala Traffic Police Station, Bengaluru, Karnataka 560068</span></p>
                     </div>
                     <div class="contact-item">
                       <a href="tel:10095447818">P: +91 9846092957</a>
@@ -114,9 +111,9 @@
                   </div>
                   <div class="copyright-menu">
                     <ul>
-                      <li><a href="contact.html">Terms & Condition</a></li>
-                      <li><a href="contact.html">Privacy Policy</a></li>
-                      <li><a href="contact.html">Cancellation and refund</a></li>
+                      <li><a href="terms-and-conditions.php">Terms & Condition</a></li>
+                      <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                      <li><a href="cancellation-refund.php">Cancellation and Refund</a></li>
                     </ul>
                   </div>
                 </div>

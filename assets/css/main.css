@@ -53,7 +53,7 @@
   --tj-color-theme-dark-5: #676a7a;
   --tj-color-red-1: #ff0000;
   --tj-color-grey-1: #ececf0;
-  --tj-color-grey-2: #a9b8b8;
+  --tj-color-grey-2: #a9abc0;
   --tj-color-grey-3: rgba(255, 255, 255, 0.1019607843);
   --tj-color-border-1: #c9ccd1;
   --tj-color-border-2: #31343d;
@@ -2131,7 +2131,7 @@ START: Theme Header CSS
   position: relative;
   z-index: 2;
   text-align: center;
-  background: linear-gradient(-45deg, rgba(30, 138, 138, 0.3) 0%, rgba(30, 138, 138, 0) 50%, rgba(30, 138, 138, 0.3) 100%);
+  background: linear-gradient(-45deg, rgba(30, 37, 138, 0.3) 0%, rgba(30, 41, 138, 0) 50%, rgba(30, 41, 138, 0.3) 100%);
   color: var(--tj-color-theme-primary);
   font-size: 40px;
   -ms-flex-negative: 0;
@@ -4295,7 +4295,7 @@ START: Preloader CSS
       -ms-transform: translate(-50%, 50%);
           transform: translate(-50%, 50%);
   border-radius: 50%;
-  background-color: rgba(0, 255, 194, 0.1);
+  background-color: rgba(17, 0, 255, 0.1);
   -webkit-box-shadow: 0 0 20px 0 #0099ff;
           box-shadow: 0 0 20px 0 #0099ff;
   -webkit-filter: blur(10px);
@@ -8964,8 +8964,8 @@ START: Client CSS
   position: absolute;
   width: 448px;
   height: 100%;
-  background-image: -webkit-gradient(linear, left top, right top, from(rgb(233, 237, 237)), to(rgba(233, 237, 237, 0)));
-  background-image: linear-gradient(90deg, rgb(233, 237, 237) 0%, rgba(233, 237, 237, 0) 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(rgb(233, 237, 237)), to(rgba(233, 233, 237, 0)));
+  background-image: linear-gradient(90deg, rgb(233, 237, 237) 0%, rgba(233, 233, 237, 0) 100%);
   top: 0;
   inset-inline-start: 0;
   z-index: 2;
@@ -8988,8 +8988,8 @@ START: Client CSS
 .client-slider-1::after {
   inset-inline-start: auto;
   inset-inline-end: 0;
-  background-image: -webkit-gradient(linear, right top, left top, from(rgb(233, 237, 237)), to(rgba(233, 237, 237, 0)));
-  background-image: linear-gradient(-90deg, rgb(233, 237, 237) 0%, rgba(233, 237, 237, 0) 100%);
+  background-image: -webkit-gradient(linear, right top, left top, from(rgb(233, 237, 237)), to(rgba(233, 233, 237, 0)));
+  background-image: linear-gradient(-90deg, rgb(233, 237, 237) 0%, rgba(233, 233, 237, 0) 100%);
 }
 
 .client-item {
@@ -9704,7 +9704,7 @@ START: Services CSS
   font-size: 70px;
   width: 80px;
   height: 80px;
-  background: linear-gradient(-45deg, rgba(30, 73, 138, 0.3) 0%, rgba(30, 138, 138, 0) 50%, rgba(30, 73, 138, 0.3) 100%);
+  background: linear-gradient(-45deg, rgba(30, 73, 138, 0.3) 0%, rgba(37, 30, 138, 0) 50%, rgba(30, 73, 138, 0.3) 100%);
   border-radius: 50%;
   border: 1px solid rgba(30, 80, 138, 0.15);
   display: -webkit-inline-box;
@@ -13641,7 +13641,7 @@ START: Theme Slider CSS
   width: 100%;
   height: 100%;
   z-index: 2;
-  background: -webkit-gradient(linear, left top, right top, color-stop(20%, rgb(12, 13, 33)), color-stop(60%, rgba(12, 15, 33, 0.4)), to(rgba(12, 30, 33, 0.1)));
+  background: -webkit-gradient(linear, left top, right top, color-stop(20%, rgb(12, 13, 33)), color-stop(60%, rgba(12, 15, 33, 0.4)), to(rgba(12, 13, 33, 0.1)));
   background: linear-gradient(90deg, rgb(12, 13, 33) 20%, rgba(12, 13, 33, 0.4) 60%, rgba(12, 13, 33, 0.1) 100%);
 }
 .tj-slider-item .slider-wrapper {
@@ -16298,7 +16298,7 @@ blockquote cite::before {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: rgba(12, 30, 33, 0.4);
+  background-color: rgba(13, 12, 33, 0.4);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -21437,7 +21437,7 @@ START: Service CSS
   content: " ";
   width: 100%;
   height: 100%;
-  background: rgba(12, 30, 33, 0.5);
+  background: rgba(14, 12, 33, 0.5);
   position: absolute;
   inset-inline-start: 0;
   bottom: 0;
@@ -22083,7 +22083,7 @@ START: Testimonial CSS
   overflow: visible;
   height: 100%;
   -webkit-mask-image: -webkit-gradient(linear, left bottom, left top, color-stop(5%, rgba(12, 19, 33, 0)), color-stop(21%, #0c0e21));
-  -webkit-mask-image: linear-gradient(0deg, rgba(12, 30, 33, 0) 5%, #0c0d21 21%);
+  -webkit-mask-image: linear-gradient(0deg, rgba(13, 12, 33, 0) 5%, #0c0d21 21%);
           mask-image: -webkit-gradient(linear, left bottom, left top, color-stop(5%, rgba(12, 18, 33, 0)), color-stop(21%, #0c0f21));
           mask-image: linear-gradient(0deg, rgba(12, 18, 33, 0) 5%, #0c0e21 21%);
   -webkit-mask-repeat: no-repeat;
@@ -22095,7 +22095,7 @@ START: Testimonial CSS
   .h6-testimonial-wrapper .swiper {
     -webkit-mask-image: -webkit-gradient(linear, right top, left top, from(rgba(12, 13, 33, 0)), color-stop(20%, #0c0f21));
     -webkit-mask-image: linear-gradient(-90deg, rgba(12, 12, 33, 0) 0%, #0c1221 20%);
-            mask-image: -webkit-gradient(linear, right top, left top, from(rgba(12, 30, 33, 0)), color-stop(20%, #0c0d21));
+            mask-image: -webkit-gradient(linear, right top, left top, from(rgba(13, 12, 33, 0)), color-stop(20%, #0c0d21));
             mask-image: linear-gradient(-90deg, rgba(12, 14, 33, 0) 0%, #0c1121 20%);
   }
 }
@@ -25361,7 +25361,7 @@ START: Theme Footer CSS
 .tj-footer-section.h9-footer .h9-footer-copyright {
   position: relative;
   padding: 0;
-  border-color: rgba(49, 61, 61, 0.3);
+  border-color: rgba(49, 51, 61, 0.3);
   z-index: 2;
 }
 .tj-footer-section.h9-footer .h9-footer-copyright .copyright-content-area {
@@ -27291,7 +27291,7 @@ START: Blog CSS
 .h9-blog-wrapper .blog-item:first-child.h5-blog-item .blog-thumb::before {
   display: block;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(12, 13, 33, 0)), to(var(--tj-color-theme-dark)));
-  background: linear-gradient(180deg, rgba(12, 30, 33, 0) 0%, var(--tj-color-theme-dark) 100%);
+  background: linear-gradient(180deg, rgba(12, 16, 33, 0) 0%, var(--tj-color-theme-dark) 100%);
   opacity: 1;
 }
 .h9-blog-wrapper .blog-item:first-child.h5-blog-item .blog-date {
