@@ -46,12 +46,12 @@
                 <div class="footer-widget footer-col-2 widget-nav-menu wow fadeInUp" data-wow-delay=".3s">
                   <h5 class="title">Services</h5>
                   <ul>
-                    <li><a href="#">Customer Experience</a></li>
-                    <li><a href="#">Training Programs</a></li>
-                    <li><a href="#">Business Strategy</a></li>
-                    <li><a href="#">Training Program</a></li>
-                    <li><a href="#">ESG Consulting</a></li>
-                    <li><a href="#">Development Hub</a></li>
+                    <li><a href="data-center.php">Data Center Services</a></li>
+                    <li><a href="it-automation.php">IT & Automation</a></li>
+                    <li><a href="telecom.php">Telecom Services</a></li>
+                    <li><a href="cyber.php">Cyber Security</a></li>
+                    <li><a href="mep.php">MEP Services</a></li>
+                    <li><a href="https://qcmcertifications.com/">Quality Consulting</a></li>
                   </ul>
                 </div>
               </div>
@@ -70,8 +70,8 @@
                   <h5 class="title">Our Office</h5>
                   <div class="footer-contact-info">
                     <div class="contact-item">
-                     <p> <span>Registered address: Prestige Cube, Hosur Road, Bengaluru, Karnataka 560030</span></p>
-                      <p><span>R & D: Davanam Park square, Hosur Rd, opp. Madiwala Traffic Police Station, Bengaluru, Karnataka 560068</span></p>
+                     <p> <span>Prestige Cube, Hosur Road, Bengaluru, Karnataka 560030</span></p>
+                      <p><span> Davanam Park square, Hosur Rd, opp. Madiwala Traffic Police Station, Bengaluru, Karnataka 560068</span></p>
                     </div>
                     <div class="contact-item">
                       <a href="tel:10095447818">P: +91 9846092957</a>
@@ -92,7 +92,7 @@
               <div class="col-12">
                 <div class="copyright-content-area">
                   <div class="copyright-text">
-                    <p>&copy; 2025 <a href="" target="_blank">HTCL Technologies Private Limited</a>
+                    <p>&copy; 2025 <a href="index.php" target="_blank">HTCL Technologies Private Limited</a>
                       All right reserved</p>
                   </div>
                   <div class="social-links style-3">

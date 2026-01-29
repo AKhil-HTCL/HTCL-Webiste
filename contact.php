@@ -122,8 +122,7 @@
                   <p>Raheja Platinum, Andheri East, Marol, Andheri East,Mumbai, MH 400059</p>
                 </div>
               </div>
-            
-            </div><br>
+                          </div><br>
 
 
             <div class="row row-gap-4">

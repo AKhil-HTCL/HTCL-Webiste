@@ -16039,10 +16039,10 @@ blockquote cite::before {
   display: -ms-inline-flexbox;
   display: inline-flex;
 }
-.service-categories ul li a:hover, .service-categories ul li a.active {
+.service-categories ul li a:hover{
   color: var(--tj-color-common-white);
   background-color: var(--tj-color-theme-primary);
-}
+} 
 .service-categories ul li a:hover span, .service-categories ul li a.active span {
   color: var(--tj-color-common-white);
 }
@@ -21437,7 +21437,7 @@ START: Service CSS
   content: " ";
   width: 100%;
   height: 100%;
-  background: rgba(14, 12, 33, 0.5);
+  background: rgba(12, 30, 33, 0.5);
   position: absolute;
   inset-inline-start: 0;
   bottom: 0;
@@ -22083,7 +22083,7 @@ START: Testimonial CSS
   overflow: visible;
   height: 100%;
   -webkit-mask-image: -webkit-gradient(linear, left bottom, left top, color-stop(5%, rgba(12, 19, 33, 0)), color-stop(21%, #0c0e21));
-  -webkit-mask-image: linear-gradient(0deg, rgba(13, 12, 33, 0) 5%, #0c0d21 21%);
+  -webkit-mask-image: linear-gradient(0deg, rgba(12, 30, 33, 0) 5%, #0c0d21 21%);
           mask-image: -webkit-gradient(linear, left bottom, left top, color-stop(5%, rgba(12, 18, 33, 0)), color-stop(21%, #0c0f21));
           mask-image: linear-gradient(0deg, rgba(12, 18, 33, 0) 5%, #0c0e21 21%);
   -webkit-mask-repeat: no-repeat;
@@ -22095,7 +22095,7 @@ START: Testimonial CSS
   .h6-testimonial-wrapper .swiper {
     -webkit-mask-image: -webkit-gradient(linear, right top, left top, from(rgba(12, 13, 33, 0)), color-stop(20%, #0c0f21));
     -webkit-mask-image: linear-gradient(-90deg, rgba(12, 12, 33, 0) 0%, #0c1221 20%);
-            mask-image: -webkit-gradient(linear, right top, left top, from(rgba(13, 12, 33, 0)), color-stop(20%, #0c0d21));
+            mask-image: -webkit-gradient(linear, right top, left top, from(rgba(12, 30, 33, 0)), color-stop(20%, #0c0d21));
             mask-image: linear-gradient(-90deg, rgba(12, 14, 33, 0) 0%, #0c1121 20%);
   }
 }
@@ -25361,7 +25361,7 @@ START: Theme Footer CSS
 .tj-footer-section.h9-footer .h9-footer-copyright {
   position: relative;
   padding: 0;
-  border-color: rgba(49, 51, 61, 0.3);
+  border-color: rgba(49, 61, 61, 0.3);
   z-index: 2;
 }
 .tj-footer-section.h9-footer .h9-footer-copyright .copyright-content-area {
@@ -27291,7 +27291,7 @@ START: Blog CSS
 .h9-blog-wrapper .blog-item:first-child.h5-blog-item .blog-thumb::before {
   display: block;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(12, 13, 33, 0)), to(var(--tj-color-theme-dark)));
-  background: linear-gradient(180deg, rgba(12, 16, 33, 0) 0%, var(--tj-color-theme-dark) 100%);
+  background: linear-gradient(180deg, rgba(12, 30, 33, 0) 0%, var(--tj-color-theme-dark) 100%);
   opacity: 1;
 }
 .h9-blog-wrapper .blog-item:first-child.h5-blog-item .blog-date {

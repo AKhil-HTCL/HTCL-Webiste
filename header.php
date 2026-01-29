@@ -148,9 +148,9 @@
 
                 <li class="has-dropdown"><a>About Us</a>
                   <ul class="sub-menu">
-                    <li><a href="OurCompany ">Our Company</a></li>
-                    <li><a href="ceo ">CEO and Founders</a></li>
-                    <li><a href="awards ">Awards </a></li>
+                    <li><a href="ourcompany.php">Our Company</a></li>
+                    <li><a href="ceo.php">CEO and Founders</a></li>
+                    <li><a href="awards.php">Awards </a></li>
                   </ul>
 
                 </li>
@@ -206,27 +206,27 @@
                 </li>
                 <li class="has-dropdown"><a>Services</a>
                   <ul class="sub-menu  mega-menu-service">
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="data-center.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-1"></i>
                         </span> <span class="mega-menu-service-title">Data Center Services</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="it-automation.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-2"></i>
                         </span> <span class="mega-menu-service-title">IT & Automation</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="telecom.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-3"></i>
                         </span> <span class="mega-menu-service-title">Telecom Services</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="cyber.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-4"></i>
                         </span> <span class="mega-menu-service-title">Cyber Security</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="mep.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-5"></i>
                         </span> <span class="mega-menu-service-title">MEP Services</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
@@ -286,7 +286,7 @@
               <ul>
                 <li class="has-dropdown"><a>About Us</a>
                   <ul class="sub-menu">
-                    <li><a href="OurCompany ">Our Company</a></li>
+                    <li><a href="ourcompany ">Our Company</a></li>
 
 
                     <li><a href="ceo ">CEO and Founders</a></li>
