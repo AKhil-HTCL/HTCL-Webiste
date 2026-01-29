@@ -159,8 +159,8 @@
                   </div>
                   <h3 class="contact-title">Live chat</h3>
                   <ul class="contact-list">
-                    <li><a href="mailto:livechat@bexon.com">info@htcl.co.in</a></li>
-                    <li class="active"><a href="contact.html">Need help?</a></li>
+                    <li><a href="mailto:info@htcl.co.in">info@htcl.co.in</a></li>
+                    <li class="active"><a href="contact.php">Need help?</a></li>
                   </ul>
                 </div>
               </div>
