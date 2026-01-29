@@ -11,7 +11,7 @@
       <div class="hamburger_inner">
         <div class="hamburger_top d-flex align-items-center justify-content-between">
           <div class="hamburger_logo">
-            <a href="index.php" class="mobile_logo">
+            <a href="index " class="mobile_logo">
               <img src="assets/images/logos/htcllogo.png" alt="Logo">
             </a>
           </div>
@@ -74,7 +74,7 @@
       <div class="hamburger_inner">
         <div class="hamburger_top d-flex align-items-center justify-content-between">
           <div class="hamburger_logo">
-            <a href="index-2.php" class="mobile_logo">
+            <a href="index " class="mobile_logo">
               <img src="assets/images/logos/htcllogo.png" alt="Logo">
             </a>
           </div>
@@ -85,7 +85,7 @@
         <div class="hamburger-search-area">
           <h5 class="hamburger-title">Search Now!</h5>
           <div class="hamburger_search">
-            <form method="get" action="https://themejunction.net/html/bexon/demo/index.php">
+            <form method="get" action="https://themejunction.net/html/bexon/demo/index ">
               <button type="submit"><i class="tji-search"></i></button>
               <input type="search" autocomplete="off" name="s" value="" placeholder="Search here...">
             </form>
@@ -99,15 +99,15 @@
           <div class="contact-info">
             <div class="contact-item">
               <span class="subtitle">Phone</span>
-              <a class="contact-link" href="tel:8089091313">808-909-1313</a>
+              <a class="contact-link" href="tel:9846092957">+91 9846092957</a>
             </div>
             <div class="contact-item">
               <span class="subtitle">Email</span>
-              <a class="contact-link" href="mailto:info@bexon.com">info@bexon.com</a>
+              <a class="contact-link" href="mailto:info@htcl.co.in">info@htcl.co.in</a>
             </div>
             <div class="contact-item">
               <span class="subtitle">Location</span>
-              <span class="contact-link">993 Renner Burg, West Rond, MT 94251-030</span>
+              <span class="contact-link">Prestige Cube, Hosur Road, Bengaluru, Karnataka 560030</span>
             </div>
           </div>
         </div>
@@ -138,7 +138,7 @@
           <div class="header-wrapper">
             <!-- site logo -->
             <div class="site_logo">
-              <a class="logo" href="index-2.php"><img src="assets/images/logos/htcllogo.png" alt=""></a>
+              <a class="logo" href="index "><img src="assets/images/logos/htcllogo.png" alt=""></a>
             </div>
 
             <!-- navigation -->
@@ -157,14 +157,14 @@
                                   <div class="image">
                                     <img src="assets/images/header/demo/home-1.webp" alt="">
                                     <div class="tj-demo-button">
-                                      <a href="index-2.php" class="tj-primary-btn header_btn">
+                                      <a href="index " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
 
                                       </a>
                                     </div>
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-2.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index ">Homepage
                                       -
                                       01</a></h6>
 
@@ -175,14 +175,14 @@
                                   <div class="image">
                                     <img src="assets/images/header/demo/home-2.webp" alt="">
                                     <div class="tj-demo-button">
-                                      <a href="index-3.php" class="tj-primary-btn header_btn">
+                                      <a href="index " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
 
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-3.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index ">Homepage
                                       -
                                       02</a></h6>
 
@@ -193,13 +193,13 @@
                                   <div class="image">
                                     <img src="assets/images/header/demo/home-3.webp" alt="">
                                     <div class="tj-demo-button">
-                                      <a href="index-4.php" class="tj-primary-btn header_btn">
+                                      <a href="index " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-4.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index ">Homepage
                                       -
                                       03</a></h6>
 
@@ -210,13 +210,13 @@
                                   <div class="image">
                                     <img src="assets/images/header/demo/home-4.webp" alt="">
                                     <div class="tj-demo-button">
-                                      <a href="index-5.php" class="tj-primary-btn header_btn">
+                                      <a href="index " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-5.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index ">Homepage
                                       -
                                       04</a></h6>
                                 </div>
@@ -226,13 +226,13 @@
                                   <div class="image">
                                     <img src="assets/images/header/demo/home-5.webp" alt="">
                                     <div class="tj-demo-button">
-                                      <a href="index-6.php" class="tj-primary-btn header_btn">
+                                      <a href="index-6 " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-6.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index-6 ">Homepage
                                       -
                                       05</a></h6>
 
@@ -243,14 +243,14 @@
                                   <div class="image">
                                     <img src="assets/images/header/demo/home-6.webp" alt="">
                                     <div class="tj-demo-button">
-                                      <a href="index-7.php" class="tj-primary-btn header_btn">
+                                      <a href="index-7 " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
 
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-7.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index-7 ">Homepage
                                       -
                                       06</a></h6>
 
@@ -261,13 +261,13 @@
                                   <div class="image">
                                     <img src="assets/images/header/demo/home-7.webp" alt="">
                                     <div class="tj-demo-button">
-                                      <a href="index-8.php" class="tj-primary-btn header_btn">
+                                      <a href="index-8 " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-8.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index-8 ">Homepage
                                       -
                                       07</a></h6>
 
@@ -281,13 +281,13 @@
                                       New
                                     </h6>
                                     <div class="tj-demo-button">
-                                      <a href="index-9.php" class="tj-primary-btn header_btn">
+                                      <a href="index-9 " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-9.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index-9 ">Homepage
                                       -
                                       08</a></h6>
 
@@ -301,13 +301,13 @@
                                       New
                                     </h6>
                                     <div class="tj-demo-button">
-                                      <a href="index-10.php" class="tj-primary-btn header_btn">
+                                      <a href="index-10 " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-10.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index-10 ">Homepage
                                       -
                                       09</a></h6>
 
@@ -321,13 +321,13 @@
                                       New
                                     </h6>
                                     <div class="tj-demo-button">
-                                      <a href="index-11.php" class="tj-primary-btn header_btn">
+                                      <a href="index-11 " class="tj-primary-btn header_btn">
                                         <span class="btn-text"><span>View demo</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                                       </a>
                                     </div>
                                   </div>
-                                  <h6 class="tj-demo-title"><a href="index-11.php">Homepage
+                                  <h6 class="tj-demo-title"><a href="index-11 ">Homepage
                                       -
                                       10</a></h6>
 
@@ -343,13 +343,13 @@
 
                   <li class="has-dropdown"><a>About Us</a>
                    <ul class="sub-menu">
-                      <li><a href="OurCompany.php">Our Company</a></li>
+                      <li><a href="OurCompany ">Our Company</a></li>
                      
                      
-                      <li><a href="ceo.php">CEO and Founders</a></li>
+                      <li><a href="ceo ">CEO and Founders</a></li>
                      
                      
-                      <li><a href="awards.php">Awards </a></li>
+                      <li><a href="awards ">Awards </a></li>
                      </ul>
                    
                   </li>
@@ -452,10 +452,10 @@
                               class="tji-arrow-right-long"></i></span></a></li>
                     </ul>
                   </li>
-                  <li class=""><a href="portfolio.php">Investors</a>
+                  <li class=""><a href="portfolio ">Investors</a>
                     </li>
                   <li class=""><a href="https://htcl.zohorecruit.in/jobs/Careers" target="_blank">Careers</a> </li>
-                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="contact ">Contact</a></li>
                 </ul>
               </nav>
             </div>
@@ -490,7 +490,7 @@
           <div class="header-wrapper">
             <!-- site logo -->
             <div class="site_logo">
-              <a class="logo" href="index-2.php"><img src="assets/images/logos/htcllogo.png" alt=""></a>
+              <a class="logo" href="index "><img src="assets/images/logos/htcllogo.png" alt=""></a>
             </div>
 
             <!-- navigation -->
@@ -499,13 +499,13 @@
                 <ul>
                   <li class="has-dropdown"><a>About Us</a>
                    <ul class="sub-menu">
-                      <li><a href="OurCompany.php">Our Company</a></li>
+                      <li><a href="OurCompany ">Our Company</a></li>
                      
                      
-                      <li><a href="ceo.php">CEO and Founders</a></li>
+                      <li><a href="ceo ">CEO and Founders</a></li>
                      
                      
-                      <li><a href="awards.php">Awards </a></li>
+                      <li><a href="awards ">Awards </a></li>
                      </ul>
                   </li>
                   <li class="has-dropdown"><a>Solutions</a>
@@ -607,11 +607,11 @@
                               class="tji-arrow-right-long"></i></span></a></li>
                     </ul>
                   </li>
-                  <li ><a href="portfolio.php">Investors</a>
+                  <li ><a href="portfolio ">Investors</a>
                    </li>
-                  <li class=""><a href="blog.php">Careers</a>
+                  <li class=""><a href="blog ">Careers</a>
                                     </li>
-                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="contact ">Contact</a></li>
                 </ul>
               </nav>
             </div>
