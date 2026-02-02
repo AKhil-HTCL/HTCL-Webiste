@@ -110,20 +110,22 @@
 
                                     <div id="license">
                                         <h4>Refund Period</h4>
-                                        <p>
-                                            You may cancel a product at any time, but a refund will only be issued if
-                                            you request a refund with HTCL Technologies Pvt Ltd customer service within
-                                            30 days from purchase date.
-                                        </p>
-                                        <p>
-                                            Refunds are only applicable for Web Hosting Service and Cloud Servers.
-                                        </p>
-                                        <p>
-                                            No refunds are applicable for purchase of domains, SSL certificate
-                                        </p>
+                                        <ul>
+                                            <li>You may cancel a product at any time, but a refund will only be issued
+                                                if
+                                                you request a refund with HTCL Technologies Pvt Ltd customer service
+                                                within
+                                                30 days from purchase date.
+
+                                            </li>
+                                            <li>
+                                                Refunds are only applicable for Web Hosting Service and Cloud Servers.
+                                            </li>
+                                            <li>
+                                                No refunds are applicable for purchase of domains, SSL certificate
+                                            </li>
+                                        </ul>
                                     </div>
-
-
                                     <div id="restrictions">
                                         <h4>No Refund After Account Closure</h4>
                                         <p>If eligible for a refund, it is necessary for you to request a refund prior
@@ -131,7 +133,7 @@
                                             time, but upon account closure you will no longer be eligible for a refund
                                             as otherwise permitted under this Refund Policy.</p>
                                     </div>
-                                 
+
                                 </div>
                             </div>
                         </div>

@@ -51,7 +51,7 @@
                     <li><a href="telecom.php">Telecom Services</a></li>
                     <li><a href="cyber.php">Cyber Security</a></li>
                     <li><a href="mep.php">MEP Services</a></li>
-                    <li><a href="https://qcmcertifications.com/">Quality Consulting</a></li>
+                    <li><a href="https://qcmcertifications.com/" target="_blank">Quality Consulting</a></li>
                   </ul>
                 </div>
               </div>
@@ -60,7 +60,8 @@
                   <h5 class="title">Resources</h5>
                   <ul>
                     <li><a href="contact.php">Contact us</a></li>       
-                    <li><a href="investers.php">Investers</a></li>                               
+                    <li><a href="investers.php">Investers</a></li>     
+                     <li><a href="projects.php">Our Projects</a></li>                            
                     <li><a href="https://htcl.zohorecruit.in/jobs/Careers" target="_blank">Careers </a></li>
                      </ul>
                 </div>

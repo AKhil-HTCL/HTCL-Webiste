@@ -110,14 +110,14 @@
                     <div class="swiper-wrapper">
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">Business Strategy Development</a></h4>
+                          <h4 class="title"><a href="customer-experience.php">Customer Experience Solutions</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-1"></i>
                           </div>
                           <div class="service-content">
                             <p class="desc">Through a combination of data-driven insights and innovative approaches
                               business.</p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="customer-experience.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -126,7 +126,7 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">Customer Experience Solutions</a></h4>
+                          <h4 class="title"><a href="sustainability.php">Sustainability and ESG Consulting</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-2"></i>
                           </div>
@@ -134,7 +134,7 @@
                             <p class="desc">Developing personalized customer journeys to increase satisfaction and
                               loyalty.
                             </p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="sustainability.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -143,7 +143,7 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">Sustainability & ESG Consulting</a></h4>
+                          <h4 class="title"><a href="training-development.php">Training and Development Programs</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-3"></i>
                           </div>
@@ -151,7 +151,7 @@
                             <p class="desc">Provide tailored strategies that not only drive long-term value but also
                               build
                               trust.</p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="training-development.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -160,7 +160,7 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">Training Development Programs</a></h4>
+                          <h4 class="title"><a href="support-maintenance.php">IT Support & Maintenance</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-4"></i>
                           </div>
@@ -168,7 +168,7 @@
                             <p class="desc">Training Development Programs designed empower employees with skills,
                               knowledge.
                             </p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="support-maintenance.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -177,7 +177,7 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">Data Center Services</a></h4>
+                          <h4 class="title"><a href="erp-solutions.php">ERP Solutions</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-5"></i>
                           </div>
@@ -185,7 +185,7 @@
                             <p class="desc">Provide tailored strategies that not only drive long-term value but also
                               build
                               trust.</p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="erp-solutions.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -194,7 +194,7 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">IT & Automation</a></h4>
+                          <h4 class="title"><a href="software-it.php">Software & IT Solutions</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-6"></i>
                           </div>
@@ -202,7 +202,7 @@
                             <p class="desc">Provide tailored strategies that not only drive long-term value but also
                               build
                               trust.</p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="software-it.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -211,7 +211,7 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">Telecom Services</a></h4>
+                          <h4 class="title"><a href="digital-transformation.php">Digital Transformation</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-1"></i>
                           </div>
@@ -219,7 +219,7 @@
                             <p class="desc">Provide tailored strategies that not only drive long-term value but also
                               build
                               trust.</p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="digital-transformation.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -228,7 +228,7 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html"> Cyber Security</a></h4>
+                          <h4 class="title"><a href="communication.php"> Communication Solutions</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-2"></i>
                           </div>
@@ -236,7 +236,7 @@
                             <p class="desc">Provide tailored strategies that not only drive long-term value but also
                               build
                               trust.</p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="communication.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -245,7 +245,7 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">MEP Services</a></h4>
+                          <h4 class="title"><a href="project-management.php">Project Management</a></h4>
                           <div class="service-icon">
                             <i class="tji-service-3"></i>
                           </div>
@@ -253,24 +253,7 @@
                             <p class="desc">Provide tailored strategies that not only drive long-term value but also
                               build
                               trust.</p>
-                            <a class="text-btn" href="service-details.html">
-                              <span class="btn-text"><span>Learn More</span></span>
-                              <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="swiper-slide">
-                        <div class="service-item style-6">
-                          <h4 class="title"><a href="service-details.html">Quality Consulting</a></h4>
-                          <div class="service-icon">
-                            <i class="tji-service-4"></i>
-                          </div>
-                          <div class="service-content">
-                            <p class="desc">Provide tailored strategies that not only drive long-term value but also
-                              build
-                              trust.</p>
-                            <a class="text-btn" href="service-details.html">
+                            <a class="text-btn" href="project-management.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                             </a>
@@ -340,8 +323,7 @@
               <div class="swiper-slide client-item h5-client-item">
                 <div class="client-logo">
                   <img src="assets/images/brands/h5-brand-4.png" alt="">
-                  \
-                </div>
+                                  </div>
               </div>
               <div class="swiper-slide client-item h5-client-item">
                 <div class="client-logo">
@@ -408,8 +390,7 @@
                 <div class="h5-strategy-item h5-strategy-item-2 wow fadeInUp" data-wow-delay=".4s">
                   <h4 class="h5-strategy-title"></h4>
                   <div class="h5-strategy-chart">
-
-                  </div>
+                 </div>
                 </div>
               </div>
               <div class="col-12 col-lg-4">
@@ -440,10 +421,7 @@
                     <a class="h5-strategy-tag" href="#">
                       Tech
                     </a>
-
                   </div>
-
-
                 </div>
               </div>
             </div>
@@ -559,15 +537,15 @@
                           <img src="assets/images/project/h5-project-1.png" alt="Image">
                         </div>
                         <div class="project-content">
-                          <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                          <span class="categories"><a href="project-details.php">Business</a></span>
                           <div class="project-text">
-                            <h3 class="title"><a href="portfolio-details.html">Mafsu Digital Transformation</a></h3>
+                            <h3 class="title"><a href="project-details.php">Mafsu Digital Transformation</a></h3>
                           </div>
                           <p class="desc"> Undertaken the digital transformation as part of university digital
                             initiative. HTCL have designed, developed & and managed university & affiliated institutions
                             websites.
                           </p>
-                          <a class="tj-primary-btn" href="portfolio-details.html">
+                          <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
                             <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                           </a>
@@ -580,15 +558,15 @@
                           <img src="assets/images/project/h5-project-2.webp" alt="Image">
                         </div>
                         <div class="project-content">
-                          <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                          <span class="categories"><a href="project-details.php">Business</a></span>
                           <div class="project-text">
-                            <h3 class="title"><a href="portfolio-details.html">Surveillance Project</a>
+                            <h3 class="title"><a href="project-details.php">Surveillance Project</a>
                             </h3>
                           </div>
                           <p class="desc">Managed complex CCTV Surveillance at Foxconn Elephant project at Devanahalli,
                             bangalore
                           </p>
-                          <a class="tj-primary-btn" href="portfolio-details.html">
+                          <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
                             <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                           </a>
@@ -601,15 +579,15 @@
                           <img src="assets/images/project/h5-project-6.webp" alt="Image">
                         </div>
                         <div class="project-content">
-                          <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                          <span class="categories"><a href="project-details.php">Business</a></span>
                           <div class="project-text">
-                            <h3 class="title"><a href="portfolio-details.html">Bihta Airport Project</a>
+                            <h3 class="title"><a href="project-details.php">Bihta Airport Project</a>
                             </h3>
                           </div>
                           <p class="desc">Managed complex CCTV Surveillance at Foxconn Elephant project at Devanahalli,
                             bangalore
                           </p>
-                          <a class="tj-primary-btn" href="portfolio-details.html">
+                          <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
                             <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                           </a>
@@ -622,15 +600,15 @@
                           <img src="assets/images/project/h5-project-7.jpg" alt="Image">
                         </div>
                         <div class="project-content">
-                          <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                          <span class="categories"><a href="project-details.php">Business</a></span>
                           <div class="project-text">
-                            <h3 class="title"><a href="portfolio-details.html">L & T Constructions</a>
+                            <h3 class="title"><a href="project-details.php">L & T Constructions</a>
                             </h3>
                           </div>
                           <p class="desc">Managed complex CCTV Surveillance at Foxconn Elephant project at Devanahalli,
                             bangalore
                           </p>
-                          <a class="tj-primary-btn" href="portfolio-details.html">
+                          <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
                             <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                           </a>
@@ -643,14 +621,14 @@
                           <img src="assets/images/project/h5-project-3.jpg" alt="Image">
                         </div>
                         <div class="project-content">
-                          <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                          <span class="categories"><a href="project-details.php">Business</a></span>
                           <div class="project-text">
-                            <h3 class="title"><a href="portfolio-details.html">Sustainability</a></h3>
+                            <h3 class="title"><a href="project-details.php">Sustainability</a></h3>
                           </div>
                           <p class="desc"> Designed and implemented large scale rooftop solar plant for The Green School
                             Bangalore
                           </p>
-                          <a class="tj-primary-btn" href="portfolio-details.html">
+                          <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
                             <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                           </a>
@@ -663,13 +641,13 @@
                           <img src="assets/images/project/h5-project-4.jpg" alt="Image">
                         </div>
                         <div class="project-content">
-                          <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                          <span class="categories"><a href="project-details.php">Business</a></span>
                           <div class="project-text">
-                            <h3 class="title"><a href="portfolio-details.html">Engineering</a></h3>
+                            <h3 class="title"><a href="project-details.php">Engineering</a></h3>
                           </div>
                           <p class="desc"> Implemented IT, Fire Protection System & Access Control for RR Kabel Ltd
                           </p>
-                          <a class="tj-primary-btn" href="portfolio-details.html">
+                          <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
                             <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                           </a>
@@ -682,15 +660,15 @@
                           <img src="assets/images/project/h5-project-5.jpg" alt="Image">
                         </div>
                         <div class="project-content">
-                          <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                          <span class="categories"><a href="project-details.php">Business</a></span>
                           <div class="project-text">
-                            <h3 class="title"><a href="portfolio-details.html">Sustainable POE Lighting</a></h3>
+                            <h3 class="title"><a href="project-details.php">Sustainable POE Lighting</a></h3>
                           </div>
                           <p class="desc"> Implemented large scale DC based POE lighting System for Standard Chartered
                             Bank Kolkata as part of green initiative.
 
                           </p>
-                          <a class="tj-primary-btn" href="portfolio-details.html">
+                          <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
                             <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                           </a>
@@ -1255,7 +1233,7 @@
   <script src="assets/js/meanmenu.js"></script>
   <script src="assets/js/main.js"></script>
 
-  
+
 </body>
 
 </html>

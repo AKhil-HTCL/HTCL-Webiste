@@ -157,48 +157,48 @@
                 <li class="has-dropdown"><a>Solutions</a>
                   <ul class="sub-menu  mega-menu-service">
 
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-2"></i>
+                    <li> <a class="mega-menu-service-single" href="customer-experience.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-1"></i>
                         </span> <span class="mega-menu-service-title">Customer Experience Solutions</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-3"></i>
+                    <li> <a class="mega-menu-service-single" href="sustainability.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-2"></i>
                         </span> <span class="mega-menu-service-title">Sustainability and ESG Consulting</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-4"></i>
+                    <li> <a class="mega-menu-service-single" href="training-development.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-3"></i>
                         </span> <span class="mega-menu-service-title">Training and Development Programs</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-5"></i>
+                    <li> <a class="mega-menu-service-single" href="support-maintenance.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-4"></i>
                         </span> <span class="mega-menu-service-title">IT Support & Maintenance</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="erp-solutions.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-5"></i>
                         </span> <span class="mega-menu-service-title">ERP Solutions</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="software-it.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-6"></i>
                         </span> <span class="mega-menu-service-title">Software & IT Solutions</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-5"></i>
+                    <li> <a class="mega-menu-service-single" href="digital-transformation.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-1"></i>
                         </span> <span class="mega-menu-service-title">Digital Transformation</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-6"></i>
+                    <li> <a class="mega-menu-service-single" href="communication.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-2"></i>
                         </span> <span class="mega-menu-service-title">Communication Solutions</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-6"></i>
+                    <li> <a class="mega-menu-service-single" href="project-management.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-3"></i>
                         </span> <span class="mega-menu-service-title"> Project Management</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
@@ -239,7 +239,7 @@
                             class="tji-arrow-right-long"></i></span></a></li>
                   </ul>
                 </li>
-                <li class=""><a href="portfolio ">Investors</a>
+                <li class=""><a href="investers.php">Investors</a>
                 </li>
                 <li class=""><a href="https://htcl.zohorecruit.in/jobs/Careers" target="_blank">Careers</a> </li>
                 <li><a href="contact.php ">Contact</a></li>
@@ -286,60 +286,56 @@
               <ul>
                 <li class="has-dropdown"><a>About Us</a>
                   <ul class="sub-menu">
-                    <li><a href="ourcompany ">Our Company</a></li>
-
-
-                    <li><a href="ceo ">CEO and Founders</a></li>
-
-
-                    <li><a href="awards ">Awards </a></li>
+                    <li><a href="ourcompany">Our Company</a></li>
+                    <li><a href="ceo">CEO and Founders</a></li>
+                    <li><a href="awards">Awards </a></li>
                   </ul>
                 </li>
                 <li class="has-dropdown"><a>Solutions</a>
                   <ul class="sub-menu  mega-menu-service">
 
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-2"></i>
+                    <li> <a class="mega-menu-service-single" href="customer-experience.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-1"></i>
                         </span> <span class="mega-menu-service-title">Customer Experience Solutions</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-3"></i>
+                    <li> <a class="mega-menu-service-single" href="sustainability.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-2"></i>
                         </span> <span class="mega-menu-service-title">Sustainability and ESG Consulting</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-4"></i>
+                    <li> <a class="mega-menu-service-single" href="training-development.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-3"></i>
                         </span> <span class="mega-menu-service-title">Training and Development Programs</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-5"></i>
+                    <li> <a class="mega-menu-service-single" href="support-maintenance.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-4"></i>
                         </span> <span class="mega-menu-service-title">IT Support & Maintenance</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="erp-solutions.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-5"></i>
                         </span> <span class="mega-menu-service-title">ERP Solutions</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="software-it.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-6"></i>
                         </span> <span class="mega-menu-service-title">Software & IT Solutions</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-5"></i>
+                    <li> <a class="mega-menu-service-single" href="digital-transformation.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-1"></i>
                         </span> <span class="mega-menu-service-title">Digital Transformation</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-6"></i>
+                    <li> <a class="mega-menu-service-single" href="communication.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-2"></i>
                         </span> <span class="mega-menu-service-title">Communication Solutions</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
-                          <i class="tji-service-6"></i>
+                    <li> <a class="mega-menu-service-single" href="project-management.php"> <span class="mega-menu-service-icon">
+                          <i class="tji-service-3"></i>
                         </span> <span class="mega-menu-service-title"> Project Management</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
@@ -347,27 +343,27 @@
                 </li>
                 <li class="has-dropdown"><a>Services</a>
                   <ul class="sub-menu  mega-menu-service">
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="data-center.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-1"></i>
                         </span> <span class="mega-menu-service-title">Data Center Services</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="it-automation.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-2"></i>
                         </span> <span class="mega-menu-service-title">IT & Automation</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="telecom.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-3"></i>
                         </span> <span class="mega-menu-service-title">Telecom Services</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="cyber.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-4"></i>
                         </span> <span class="mega-menu-service-title">Cyber Security</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
                             class="tji-arrow-right-long"></i></span></a></li>
-                    <li> <a class="mega-menu-service-single" href="#"> <span class="mega-menu-service-icon">
+                    <li> <a class="mega-menu-service-single" href="mep.php"> <span class="mega-menu-service-icon">
                           <i class="tji-service-5"></i>
                         </span> <span class="mega-menu-service-title">MEP Services</span> <span
                           class="mega-menu-service-nav"><i class="tji-arrow-right-long"></i><i
@@ -380,11 +376,11 @@
                             class="tji-arrow-right-long"></i></span></a></li>
                   </ul>
                 </li>
-                <li><a href="portfolio ">Investors</a>
+                <li><a href="investers.php">Investors</a>
                 </li>
-                <li class=""><a href="blog ">Careers</a>
+                <li class=""><a href="https://htcl.zohorecruit.in/jobs/Careers" target="_blank">Careers</a>
                 </li>
-                <li><a href="contact ">Contact</a></li>
+                <li><a href="contact.php ">Contact</a></li>
               </ul>
             </nav>
           </div>

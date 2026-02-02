@@ -58,15 +58,16 @@
             <div class="row">
               <div class="col-lg-12">
                 <div class="tj-page-header-content text-center">
-                  <h1 class="tj-page-title">Portfolio</h1>
+                  <h1 class="tj-page-title">Proud Projects</h1>
                   <div class="tj-page-link">
                     <span><i class="tji-home"></i></span>
                     <span>
                       <a href="index.php">Home</a>
                     </span>
                     <span><i class="tji-arrow-right"></i></span>
+                    
                     <span>
-                      <span>Portfolio</span>
+                      <span>Proud Projects</span>
                     </span>
                   </div>
                 </div>
@@ -87,10 +88,10 @@
                     <img src="assets/images/project/project-6.webp" alt="">
                   </div>
                   <div class="project-content">
-                    <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                    <span class="categories"><a href="project-details.php">Business</a></span>
                     <div class="project-text">
-                      <h4 class="title"><a href="portfolio-details.html">Event Management Platform</a></h4>
-                      <a class="project-btn" href="portfolio-details.html">
+                      <h4 class="title"><a href="project-details.php">Event Management Platform</a></h4>
+                      <a class="project-btn" href="project-details.php">
                         <i class="tji-arrow-right-big"></i>
                       </a>
                     </div>
@@ -103,10 +104,10 @@
                     <img src="assets/images/project/project-7.webp" alt="">
                   </div>
                   <div class="project-content">
-                    <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                    <span class="categories"><a href="project-details.php">Business</a></span>
                     <div class="project-text">
-                      <h4 class="title"><a href="portfolio-details.html">Rebranding Strategy for a Growing</a></h4>
-                      <a class="project-btn" href="portfolio-details.html">
+                      <h4 class="title"><a href="project-details.php">Rebranding Strategy for a Growing</a></h4>
+                      <a class="project-btn" href="project-details.php">
                         <i class="tji-arrow-right-big"></i>
                       </a>
                     </div>
@@ -119,10 +120,10 @@
                     <img src="assets/images/project/project-8.webp" alt="">
                   </div>
                   <div class="project-content">
-                    <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                    <span class="categories"><a href="project-details.php">Business</a></span>
                     <div class="project-text">
-                      <h4 class="title"><a href="portfolio-details.html">Interactive Learning Platform</a></h4>
-                      <a class="project-btn" href="portfolio-details.html">
+                      <h4 class="title"><a href="project-details.php">Interactive Learning Platform</a></h4>
+                      <a class="project-btn" href="project-details.php">
                         <i class="tji-arrow-right-big"></i>
                       </a>
                     </div>
@@ -135,10 +136,10 @@
                     <img src="assets/images/project/project-9.webp" alt="">
                   </div>
                   <div class="project-content">
-                    <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                    <span class="categories"><a href="project-details.php">Business</a></span>
                     <div class="project-text">
-                      <h4 class="title"><a href="portfolio-details.html">Environmental Impact Dashboard</a></h4>
-                      <a class="project-btn" href="portfolio-details.html">
+                      <h4 class="title"><a href="project-details.php">Environmental Impact Dashboard</a></h4>
+                      <a class="project-btn" href="project-details.php">
                         <i class="tji-arrow-right-big"></i>
                       </a>
                     </div>
@@ -151,10 +152,10 @@
                     <img src="assets/images/project/project-8.webp" alt="">
                   </div>
                   <div class="project-content">
-                    <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                    <span class="categories"><a href="project-details.php">Business</a></span>
                     <div class="project-text">
-                      <h4 class="title"><a href="portfolio-details.html">Interactive Learning Platform</a></h4>
-                      <a class="project-btn" href="portfolio-details.html">
+                      <h4 class="title"><a href="project-details.php">Interactive Learning Platform</a></h4>
+                      <a class="project-btn" href="project-details.php">
                         <i class="tji-arrow-right-big"></i>
                       </a>
                     </div>
@@ -167,10 +168,10 @@
                     <img src="assets/images/project/project-7.webp" alt="">
                   </div>
                   <div class="project-content">
-                    <span class="categories"><a href="portfolio-details.html">Business</a></span>
+                    <span class="categories"><a href="project-details.php">Business</a></span>
                     <div class="project-text">
-                      <h4 class="title"><a href="portfolio-details.html">Rebranding Strategy for a Growing</a></h4>
-                      <a class="project-btn" href="portfolio-details.html">
+                      <h4 class="title"><a href="project-details.php">Rebranding Strategy for a Growing</a></h4>
+                      <a class="project-btn" href="project-details.php">
                         <i class="tji-arrow-right-big"></i>
                       </a>
                     </div>

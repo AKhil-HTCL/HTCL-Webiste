@@ -92,7 +92,7 @@
                     <h4>Eligibility</h4>
                     <p> By using our platform, you represent and warrant that you are at least 18 years old or have the
                       permission of a legal guardian. If you are under the age of 18, you must have the consent of a
-                      parent or guardian to use our services. Account Registration</p>
+                      parent or guardian to use our services.</p>
                   </nav>
 
 
@@ -178,7 +178,7 @@
                     <h4>Governing Law</h4>
                     <p>These Terms & Conditions are governed by and construed in accordance with the laws of Karnataka
                       state, Bengaluru without regard to its conflict of law principles. Any disputes arising from these
-                      terms shall be resolved in the courts of Karnataka state
+                      terms shall be resolved in the courts of Karnataka state.
                     </p>
                   </div>
 
