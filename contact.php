@@ -77,8 +77,7 @@
               </div>
             </div>
           </div>
-          <div class="page-header-overlay" data-bg-image="assets/images/shape/pheader-overlay.webp"></div>
-        </section>
+                  </section>
         <!-- end: Breadcrumb Section -->
 
         <!-- start: Contact Top Section -->
@@ -122,12 +121,43 @@
                   <p>Raheja Platinum, Andheri East, Marol, Andheri East,Mumbai, MH 400059</p>
                 </div>
               </div>
-            
+            </div><br>
+
+            <div class="row row-gap-4">
+              <div class="col-xl-4 col-lg-6 col-sm-6">
+                <div class="contact-item style-2 wow fadeInUp" data-wow-delay=".3s">
+                  <div class="contact-icon">
+                    <i class="tji-location-3"></i>
+                  </div>
+                  <h3 class="contact-title">Bengaluru</h3>
+                  <p>Level 10, Raheja Towers MG Road Craig Park Layout, Ashok Nagar,Bengaluru, Karnataka 560001</p>
+                </div>
+              </div>
+
+              <div class="col-xl-4 col-lg-6 col-sm-6">
+                <div class="contact-item style-2 wow fadeInUp" data-wow-delay=".3s">
+                  <div class="contact-icon">
+                    <i class="tji-location-3"></i>
+                  </div>
+                  <h3 class="contact-title">Ahmedabad</h3>
+                  <p>L&T Construction, Semiconductor Fab Facility - Dholera, Ahmedabad, Gujarat 382455</p>
+                </div>
+              </div>
+
+              <div class="col-xl-4 col-lg-6 col-sm-6">
+                <div class="contact-item style-2 wow fadeInUp" data-wow-delay=".3s">
+                  <div class="contact-icon">
+                    <i class="tji-location-3"></i>
+                  </div>
+                  <h3 class="contact-title">Patna</h3>
+                  <p>Joint-stock company Industrial Association Vozrozhdenie Bihta Airport Project, Bihta, Patna, Bihar 801103</p>
+                </div>
+              </div>
             </div><br>
 
 
             <div class="row row-gap-4">
-            
+
               <div class="col-xl-4 col-lg-6 col-sm-6">
                 <div class="contact-item style-2 wow fadeInUp" data-wow-delay=".5s">
                   <div class="contact-icon">
@@ -135,8 +165,7 @@
                   </div>
                   <h3 class="contact-title">Email us</h3>
                   <ul class="contact-list">
-                    <!-- <li><a href="mailto:support@bexon.com">support@bexon.com</a></li> -->
-                    <li><a href="mailto:info@htcl.co.in">info@htcl.co.in</a></li>
+                                     <li><a href="mailto:info@htcl.co.in">info@htcl.co.in</a></li>
                   </ul>
                 </div>
               </div>
@@ -148,8 +177,7 @@
                   <h3 class="contact-title">Call us</h3>
                   <ul class="contact-list">
                     <li><a href="tel:+91 9846092957">+91 9846092957</a></li>
-                    <!-- <li><a href="tel:10098801810">+1 (009) 880-1810</a></li> -->
-                  </ul>
+                                   </ul>
                 </div>
               </div>
               <div class="col-xl-4 col-lg-6 col-sm-6">
@@ -227,8 +255,11 @@
               </div>
               <div class="col-lg-6">
                 <div class="map-area wow fadeInUp" data-wow-delay=".3s">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.5535712289593!2d77.61028705!3d12.93638945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae144d069d5b75%3A0x1961945fdbe7f132!2sPrestige%20Cube%20Building%2C%20Chikku%20Lakshmaiah%20Layout%2C%20Adugodi%2C%20Bengaluru%2C%20Karnataka%20560030!5e0!3m2!1sen!2sin!4v1769598496671!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
-              </div>
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.5535712289593!2d77.61028705!3d12.93638945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae144d069d5b75%3A0x1961945fdbe7f132!2sPrestige%20Cube%20Building%2C%20Chikku%20Lakshmaiah%20Layout%2C%20Adugodi%2C%20Bengaluru%2C%20Karnataka%20560030!5e0!3m2!1sen!2sin!4v1769598496671!5m2!1sen!2sin"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
               </div>
             </div>
           </div>

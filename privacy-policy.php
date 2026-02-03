@@ -103,7 +103,7 @@
                                           <P>  You agree to be fully responsible for all use of your account and for any
                                             actions that take place through your account. It is your responsibility to
                                             maintain the confidentiality of your password and other information related
-                                            to the security of your account</P>
+                                            to the security of your account.</P>
 
                                            <P> Any dedicated IP order in addition to those provided with a hosting package
                                             may be subject to IP justification. IP justification practices are subject
@@ -125,7 +125,7 @@
                                             organization is location regarding User Content, User Websites, online
                                             activities, email and your use of the Services. More specifically, but
                                             without limitation, you agree to comply with all applicable laws regarding
-                                            the transmission of technical data</p>
+                                            the transmission of technical data.</p>
                                     </nav>
 
 
@@ -208,7 +208,7 @@
                                             information they provide in their user profile. All users can see, edit, or
                                             delete their personal information at any time (except they cannot change
                                             their username). Website administrators can also see and edit that
-                                            information</p>
+                                            information.</p>
                                     </div>
 
                                     <div id="updates">
