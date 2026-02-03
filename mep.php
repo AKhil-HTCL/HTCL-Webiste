@@ -24,6 +24,16 @@
         <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
+
+
+        <style>
+            .details-content-box{
+                flex-wrap: wrap;
+            }
+            .service-details-item{
+                max-width: 250px;;
+            }
+        </style>
     </head>
 
     <body>
@@ -84,113 +94,115 @@
                                 <div class="col-lg-8">
                                     <div class="post-details-wrapper">
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-                                            <img src="assets/images/service/service-details.webp" alt="Images">
+                                            <img src="assets/images/service/service-details1.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Future-Ready MEP Solutions for Complex Projects
+                                        </h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Customer Experience Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">We deliver end-to-end MEP
+                                                solutions for residential, commercial, and industrial projects. From
+                                                design and installation to maintenance, our mechanical, electrical, and
+                                                plumbing services
+                                                ensure efficient, safe, and reliable building systems. We pride
+                                                ourselves on delivering high-
+                                                quality, MEP solutions that meet their expectations in reliability,
+                                                safety, and efficiency. Through
+                                                transparent communication, expert execution, and timely project
+                                                delivery, we consistently earn
+                                                the trust of our clients, building long-lasting relationships across
+                                                India.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
-                                                experience is comprehensive
-                                                and
-                                                data-driven. We begin by assessing your
-                                                current customer touchpoints, identifying areas for improvement, and
-                                                using insights to develop
-                                                strategies that meet your customers’ evolving needs. From optimizing
-                                                digital platforms.</p>
-                                            <ul class="wow fadeInUp" data-wow-delay=".3s">
-                                                <li><span><i class="tji-check"></i></span>Personalization at Scale</li>
-                                                <li><span><i class="tji-check"></i></span>Improved Customer Retention
-                                                </li>
-                                                <li><span><i class="tji-check"></i></span>Data-Driven Insights</li>
-                                                <li><span><i class="tji-check"></i></span>Omni-channel Integration</li>
-                                                <li><span><i class="tji-check"></i></span>Customer Retention</li>
-                                                <li><span><i class="tji-check"></i></span>Support Optimization</li>
-                                                <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-3.webp" alt="Image">
+                                                            <img src="assets/images/service/service-1.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-4.webp" alt="Image">
+                                                            <img src="assets/images/service/service-2.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Proven Expertise in Delivering Reliable MEP Solutions
                                             </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
-                                                on solving customer
-                                                problems—we focus on creating experiences that
-                                                delight and build lasting relationships. Whether it's through improving
-                                                customer service
-                                                operations,
-                                                leveraging technology, or designing more engaging digital experiences,
-                                                our team is here to help
-                                                you
-                                                exceed your customers' expectations every time. We help you understand
-                                                your customers deeply,
-                                                optimize
-                                                their experience.</p>
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">We have a proven track record
+                                                of successfully delivering multiple MEP projects with complete
+                                                client satisfaction. Our expert team of skilled engineers and
+                                                technicians brings years of hands-
+                                                on experience to every project, ensuring solutions that are reliable,
+                                                safe, and compliant with
+                                                quality and safety standards. We focus on cost-effective designs that
+                                                optimize installation and
+                                                operational expenses, while ensuring timely execution without
+                                                compromising on quality.
+                                            <div class="wow fadeInUp" data-wow-delay=".3s">
+                                                <h5><b>Why Us ?</b></h5>
+                                            </div>
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">Mechanical Systems:</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>HVAC design, installation, and maintenance for optimal
+                                                            comfort
+                                                            and energy efficiency.</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Electrical Systems:</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Power distribution, lighting, backup systems, and energy
+                                                                management.</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Plumbing &amp; Fire Fighting:</h6>
                                                         <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
+                                                            <p>Water supply, drainage, sanitation, and fire protection
+                                                                solutions.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".8s">
+                                                    <div class="service-number">
+                                                        <span class="number">04</span>
+                                                        <h6 class="title">ELV Systems:</h6>
+                                                        <div class="desc">
+                                                            <p>CCTV, access control, structured cabling, fire alarm,
+                                                                public address, and
+                                                                building automation solutions.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".8s">
+                                                    <div class="service-number">
+                                                        <span class="number">05</span>
+                                                        <h6 class="title">Project Management:</h6>
+                                                        <div class="desc">
+                                                            <p>Comprehensive planning, execution, and quality assurance.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".8s">
+                                                    <div class="service-number">
+                                                        <span class="number">06</span>
+                                                        <h6 class="title">Sustainable Solutions:</h6>
+                                                        <div class="desc">
+                                                            <p>Eco-friendly designs that reduce operational costs.</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-
-
                                         </div>
-
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
@@ -213,7 +225,7 @@
                                                                 class="tji-arrow-right"></i></span></a></li>
                                             </ul>
                                         </div>
-                                        <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
+                                        <!-- <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
                                             data-wow-delay=".3s">
                                             <div class="feature-box">
                                                 <div class="feature-content">
@@ -228,14 +240,13 @@
                                                     <img src="assets/images/service/service-ad.webp" alt="">
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
                     <!-- end: Blog Section -->
-
 
                 </main>
 
@@ -262,4 +273,4 @@
         <script src="assets/js/main.js"></script>
     </body>
 
-    </.php>
+</php>

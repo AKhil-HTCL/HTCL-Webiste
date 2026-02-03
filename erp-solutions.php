@@ -25,7 +25,14 @@
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
     </head>
-
+<style>
+            .details-content-box{
+                flex-wrap: wrap;
+            }
+            .service-details-item{
+                max-width: 250px;;
+            }
+        </style>
     <body>
         <div class="body-overlay"></div>
 
@@ -84,106 +91,95 @@
                                 <div class="col-lg-8">
                                     <div class="post-details-wrapper">
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-                                            <img src="assets/images/service/service-details.webp" alt="Images">
+                                            <img src="assets/images/service/soln-details2.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Unifying Business Operations Through Intelligent
+                                            ERP</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                ERP Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">Streamline your business
+                                                operations with our Enterprise Resource Planning (ERP) solutions. ERP
+                                                software helps organizations manage accounting, procurement, project
+                                                management, supply
+                                                chain, Payroll and compliance all from a single, integrated platform.
+                                                With ERP, your business can connect processes, unify data, and gain
+                                                real-time insights to make
+                                                smarter decisions, improve efficiency, and reduce errors. ERP ensures
+                                                that your teams have
+                                                accurate information whenever they need it. With cloud-ready technology,
+                                                scalable
+                                                infrastructure, and real-time analytics, your business stays ahead of
+                                                the competition.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
-                                                experience is comprehensive
-                                                and
-                                                data-driven. We begin by assessing your
-                                                current customer touchpoints, identifying areas for improvement, and
-                                                using insights to develop
-                                                strategies that meet your customers’ evolving needs. From optimizing
-                                                digital platforms.</p>
-                                            <ul class="wow fadeInUp" data-wow-delay=".3s">
-                                                <li><span><i class="tji-check"></i></span>Personalization at Scale</li>
-                                                <li><span><i class="tji-check"></i></span>Improved Customer Retention
-                                                </li>
-                                                <li><span><i class="tji-check"></i></span>Data-Driven Insights</li>
-                                                <li><span><i class="tji-check"></i></span>Omni-channel Integration</li>
-                                                <li><span><i class="tji-check"></i></span>Customer Retention</li>
-                                                <li><span><i class="tji-check"></i></span>Support Optimization</li>
-                                                <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+
+
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-3.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-3.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-4.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-4.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Simplifying Operations.
+                                                Powering Business Growth.
                                             </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At HTCL Technologies, we don't
-                                                just focus
-                                                on solving customer
-                                                problems—we focus on creating experiences that
-                                                delight and build lasting relationships. Whether it's through improving
-                                                customer service
-                                                operations,
-                                                leveraging technology, or designing more engaging digital experiences,
-                                                our team is here to help
-                                                you
-                                                exceed your customers' expectations every time. We help you understand
-                                                your customers deeply,
-                                                optimize
-                                                their experience.</p>
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our ERP system automates
+                                                routine tasks, so your team can focus on what really matters. As
+                                                your business grows, it adapts to new challenges, keeping operations
+                                                smooth, teams
+                                                connected, and customers happy. With ERP, you can work efficiently,
+                                                reduce costs, and plan for
+                                                growth while keeping your business organized and ready for the future.
+                                                Trusted by companies across India, we don’t just provide software, we
+                                                help you automate your
+                                                business and succeed.</p>
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">Real-Time Insights</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>See all your data across departments for smarter decisions</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Efficiency</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Automate tasks, reduce errors, and save time</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Seamless Collaboration</h6>
                                                         <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
+                                                            <p>Connect teams and information for smoother workflows</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">04</span>
+                                                        <h6 class="title">Scalable Growth</h6>
+                                                        <div class="desc">
+                                                            <p>ERP grows with your business as you expand</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">05</span>
+                                                        <h6 class="title">Better Customer Experience</h6>
+                                                        <div class="desc">
+                                                            <p>Respond quickly and deliver excellent service.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -216,23 +212,7 @@
                                                             class="icon"><i class="tji-arrow-right"></i></span></a></li>
                                             </ul>
                                         </div>
-                                        <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
-                                            data-wow-delay=".3s">
-                                            <div class="feature-box">
-                                                <div class="feature-content">
-                                                    <h2 class="title">Modern</h2>
-                                                    <span></span>
-                                                    <a class="read-more feature-contact" href="tel: +91 9846092957">
-                                                        <i class="tji-phone-3"></i>
-                                                        <span> +91 9846092957</span>
-                                                    </a>
-                                                </div>
-                                                <div class="feature-images">
-                                                    <img src="assets/images/service/service-ad.webp" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                                                            </div>
                                 </div>
                             </div>
                         </div>

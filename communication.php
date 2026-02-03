@@ -213,7 +213,6 @@
                                                             class="icon"><i class="tji-arrow-right"></i></span></a></li>
                                                 <li><a href="project-management.php">Project Management<span
                                                             class="icon"><i class="tji-arrow-right"></i></span></a></li>
-
                                             </ul>
                                         </div>
                                         <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
@@ -238,10 +237,7 @@
                         </div>
                     </section>
                     <!-- end: Blog Section -->
-
-
                 </main>
-
                 <!-- start: Footer Section -->
                 <?php include('footer.php'); ?>
                 <!-- end: Footer Section -->
