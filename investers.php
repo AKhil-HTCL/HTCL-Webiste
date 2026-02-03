@@ -58,7 +58,7 @@
             <div class="row">
               <div class="col-lg-12">
                 <div class="tj-page-header-content text-center">
-                  <h1 class="tj-page-title">Proud Projects</h1>
+                  <h1 class="tj-page-title">Investers</h1>
                   <div class="tj-page-link">
                     <span><i class="tji-home"></i></span>
                     <span>
@@ -67,7 +67,7 @@
                     <span><i class="tji-arrow-right"></i></span>
                     
                     <span>
-                      <span>Proud Projects</span>
+                      <span>Investers</span>
                     </span>
                   </div>
                 </div>

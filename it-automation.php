@@ -89,46 +89,20 @@
                                         <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
                                             Experiences.</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Customer Experience Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">We provide comprehensive IT
+                                                support and server maintenance services to ensure your business
+                                                technology runs smoothly, securely, and efficiently. Our solutions help
+                                                prevent downtime,
+                                                protect critical data, and optimize system performance, allowing your
+                                                team to focus on core
+                                                business operations.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
-                                                experience is comprehensive
-                                                and
-                                                data-driven. We begin by assessing your
-                                                current customer touchpoints, identifying areas for improvement, and
-                                                using insights to develop
-                                                strategies that meet your customers’ evolving needs. From optimizing
-                                                digital platforms.</p>
-                                            <ul class="wow fadeInUp" data-wow-delay=".3s">
-                                                <li><span><i class="tji-check"></i></span>Personalization at Scale</li>
-                                                <li><span><i class="tji-check"></i></span>Improved Customer Retention
-                                                </li>
-                                                <li><span><i class="tji-check"></i></span>Data-Driven Insights</li>
-                                                <li><span><i class="tji-check"></i></span>Omni-channel Integration</li>
-                                                <li><span><i class="tji-check"></i></span>Customer Retention</li>
-                                                <li><span><i class="tji-check"></i></span>Support Optimization</li>
-                                                <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+                                        
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-3.webp" alt="Image">
+                                                            <img src="assets/images/service/s" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
@@ -190,46 +164,46 @@
 
 
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
-                                            <div class="tj-main-sidebar slidebar-stickiy">
-                                                <div class="tj-sidebar-widget service-categories wow fadeInUp"
-                                                    data-wow-delay=".1s">
-                                                    <h4 class="widget-title">More services</h4>
-                                                    <ul>
-                                                        <li><a  href="data-center.php">Data Center Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="telecom.php">Telecom Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="cyber.php">Cyber Security<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="mep.php">MEP Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="https://qcmcertifications.com/" target="_blank">Quality
-                                                                Consulting<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                    </ul>
+                                    <div class="tj-main-sidebar slidebar-stickiy">
+                                        <div class="tj-sidebar-widget service-categories wow fadeInUp"
+                                            data-wow-delay=".1s">
+                                            <h4 class="widget-title">More services</h4>
+                                            <ul>
+                                                <li><a href="data-center.php">Data Center Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="telecom.php">Telecom Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="cyber.php">Cyber Security<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="mep.php">MEP Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="https://qcmcertifications.com/" target="_blank">Quality
+                                                        Consulting<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
+                                            data-wow-delay=".3s">
+                                            <div class="feature-box">
+                                                <div class="feature-content">
+                                                    <h2 class="title">Modern</h2>
+                                                    <span></span>
+                                                    <a class="read-more feature-contact" href="tel: +91 9846092957">
+                                                        <i class="tji-phone-3"></i>
+                                                        <span> +91 9846092957</span>
+                                                    </a>
                                                 </div>
-                                                <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
-                                                    data-wow-delay=".3s">
-                                                    <div class="feature-box">
-                                                        <div class="feature-content">
-                                                            <h2 class="title">Modern</h2>
-                                                            <span></span>
-                                                            <a class="read-more feature-contact" href="tel: +91 9846092957">
-                                                                <i class="tji-phone-3"></i>
-                                                                <span> +91 9846092957</span>
-                                                            </a>
-                                                        </div>
-                                                        <div class="feature-images">
-                                                            <img src="assets/images/service/service-ad.webp" alt="">
-                                                        </div>
-                                                    </div>
+                                                <div class="feature-images">
+                                                    <img src="assets/images/service/service-ad.webp" alt="">
                                                 </div>
                                             </div>
                                         </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </section>

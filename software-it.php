@@ -25,7 +25,14 @@
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
     </head>
-
+<style>
+            .details-content-box{
+                flex-wrap: wrap;
+            }
+            .service-details-item{
+                max-width: 250px;;
+            }
+        </style>
     <body>
         <div class="body-overlay"></div>
 
@@ -89,40 +96,15 @@
                                         <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
                                             Experiences.</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Software & IT Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">We provide innovative software
+                                                and IT services that help businesses stay competitive in the
+                                                digital world. Our solutions cover web development, mobile app creation,
+                                                and cloud
+                                                technologies, offering flexible, secure, and efficient systems tailored
+                                                to your unique
+                                                requirements.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
-                                                experience is comprehensive and
-                                                data-driven. We begin by assessing your
-                                                current customer touchpoints, identifying areas for improvement, and
-                                                using insights to develop
-                                                strategies that meet your customers’ evolving needs. From optimizing
-                                                digital platforms.</p>
-                                            <ul class="wow fadeInUp" data-wow-delay=".3s">
-                                                <li><span><i class="tji-check"></i></span>Personalization at Scale</li>
-                                                <li><span><i class="tji-check"></i></span>Improved Customer Retention
-                                                </li>
-                                                <li><span><i class="tji-check"></i></span>Data-Driven Insights</li>
-                                                <li><span><i class="tji-check"></i></span>Omni-channel Integration</li>
-                                                <li><span><i class="tji-check"></i></span>Customer Retention</li>
-                                                <li><span><i class="tji-check"></i></span>Support Optimization</li>
-                                                <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
@@ -139,50 +121,60 @@
                                             </div>
                                             <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
                                             </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At HTCL Technologies, we don't
-                                                just focus
-                                                on solving customer
-                                                problems—we focus on creating experiences that
-                                                delight and build lasting relationships. Whether it's through improving
-                                                customer service
-                                                operations,
-                                                leveraging technology, or designing more engaging digital experiences,
-                                                our team is here to help
-                                                you
-                                                exceed your customers' expectations every time. We help you understand
-                                                your customers deeply,
-                                                optimize
-                                                their experience.</p>
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">
+                                            <h5>
+                                                Our Expertise
+                                            </h5>
+                                            <p>
+                                                We combine technical expertise, industry experience, and innovative
+                                                solutions to deliver IT
+                                                services that are reliable, scalable, and future-ready. Partnering with
+                                                us enables your business
+                                                to grow, operate efficiently, and confidently embrace digital
+                                                transformation.
+                                            </p>
+                                            <h5>
+                                                Value-Driven Solutions
+                                            </h5>
+                                            <p>
+                                                We are committed to ensuring client satisfaction by delivering
+                                                high-quality, reliable, and timely
+                                                solutions. Our focus is on understanding client needs, exceeding
+                                                expectations, and providing
+                                                value-driven outcomes that foster trust and long-term partnerships.
+                                            </p>
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">Web Development:</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>Crafting modern, responsive websites and custom web
+                                                            applications
+                                                            that engage users, improve performance, and support business
+                                                            growth.</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Mobile App Development:</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Designing and building user-friendly iOS and Android apps
+                                                                that deliver smooth performance and enhanced user
+                                                                experience.</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Cloud Services:</h6>
                                                         <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
+                                                            <p>Providing cloud setup, migration, and management
+                                                                solutions that
+                                                                ensure reliability, scalability, and secure access to
+                                                                your critical business data and
+                                                                applications.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -215,22 +207,7 @@
                                                             class="icon"><i class="tji-arrow-right"></i></span></a></li>
                                             </ul>
                                         </div>
-                                        <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
-                                            data-wow-delay=".3s">
-                                            <div class="feature-box">
-                                                <div class="feature-content">
-                                                    <h2 class="title">Modern</h2>
-                                                    <span></span>
-                                                    <a class="read-more feature-contact" href="tel: +91 9846092957">
-                                                        <i class="tji-phone-3"></i>
-                                                        <span> +91 9846092957</span>
-                                                    </a>
-                                                </div>
-                                                <div class="feature-images">
-                                                    <img src="assets/images/service/service-ad.webp" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
+                                       
                                     </div>
                                 </div>
                             </div>

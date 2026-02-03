@@ -73,7 +73,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="page-header-overlay" data-bg-image="assets/images/shape/pheader-overlay.webp"></div>
                     </section>
                     <!-- end: Breadcrumb Section -->
 
@@ -84,106 +83,97 @@
                                 <div class="col-lg-8">
                                     <div class="post-details-wrapper">
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-                                            <img src="assets/images/service/service-details.webp" alt="Images">
+                                            <img src="assets/images/service/soln-details3.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Workforce Training That Delivers Measurable Results
+                                        </h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Training & Development Programs are crafted to help you transform
-                                                every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">Equip yourself with the most
+                                                in-demand IT skills to build a successful career in web and mobile
+                                                development. Our hands-on training program covers front-end, back-end,
+                                                database, and mobile
+                                                technologies, preparing learners to confidently handle real-world
+                                                projects.
+                                                With expert mentorship, practical learning, and structured career
+                                                guidance, we ensure you are
+                                                not just learning but building a strong portfolio that stands out in the
+                                                job market.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
-                                                experience is comprehensive and
-                                                data-driven. We begin by assessing your
-                                                current customer touchpoints, identifying areas for improvement, and
-                                                using insights to develop
-                                                strategies that meet your customers’ evolving needs. From optimizing
-                                                digital platforms.</p>
-                                            <ul class="wow fadeInUp" data-wow-delay=".3s">
-                                                <li><span><i class="tji-check"></i></span>Personalization at Scale</li>
-                                                <li><span><i class="tji-check"></i></span>Improved Customer Retention
-                                                </li>
-                                                <li><span><i class="tji-check"></i></span>Data-Driven Insights</li>
-                                                <li><span><i class="tji-check"></i></span>Omni-channel Integration</li>
-                                                <li><span><i class="tji-check"></i></span>Customer Retention</li>
-                                                <li><span><i class="tji-check"></i></span>Support Optimization</li>
-                                                <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+                                            <h5>Our Mission</h5>
+                                            <p>
+                                                Empower learners with industry-relevant IT skills through practical
+                                                training, mentorship, and
+                                                real-world projects.
+                                            </p>
+
+                                            <h5>Our Vision</h5>
+                                            <p>Building the next generation of tech innovators and preparing Industry
+                                                ready Technology
+                                                Professionals.</p>
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-3.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-5.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-4.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-6.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Building Industry-Ready Skills
+                                                Through Collaborative Learning
                                             </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At HTCL Technologies, we don't
-                                                just focus
-                                                on solving customer
-                                                problems—we focus on creating experiences that
-                                                delight and build lasting relationships. Whether it's through improving
-                                                customer service
-                                                operations,
-                                                leveraging technology, or designing more engaging digital experiences,
-                                                our team is here to help
-                                                you
-                                                exceed your customers' expectations every time. We help you understand
-                                                your customers deeply,
-                                                optimize
-                                                their experience.</p>
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">The program is designed to
+                                                facilitate knowledge exchange among faculty, students, and
+                                                industry partners while enhancing employability, leadership, and
+                                                professional competencies. It
+                                                emphasizes the development of technical, research, and communication
+                                                skills, strengthens
+                                                industry academia collaboration, and providing meaningful real-world
+                                                exposure. The initiative
+                                                also aims to enhance learning capabilities, confidence, and adaptability
+                                                to meet evolving
+                                                industry requirements</p>
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">Full Stack & Mobile Focus:</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>Master front-end, back-end, database, and mobile app
+                                                            development in a single program.</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Hands-On Projects:</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Build real-world applications to showcase your skills.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Expert Mentorship:</h6>
                                                         <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
+                                                            <p>Learn from industry professionals with practical
+                                                                experience.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".8s">
+                                                    <div class="service-number">
+                                                        <span class="number">04</span>
+                                                        <h6 class="title">Career Support:</h6>
+                                                        <div class="desc">
+                                                            <p>Get guidance for job placement and develop a strong
+                                                                portfolio.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -214,7 +204,7 @@
                                                 <li><a href="project-management.php">Project Management<span
                                                             class="icon"><i class="tji-arrow-right"></i></span></a></li>
                                             </ul>
-                                        </div>
+                                            <!-- </div>
                                         <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
                                             data-wow-delay=".3s">
                                             <div class="feature-box">
@@ -230,11 +220,11 @@
                                                     <img src="assets/images/service/service-ad.webp" alt="">
                                                 </div>
                                             </div>
+                                        </div> -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                     </section>
                     <!-- end: Blog Section -->
                 </main>

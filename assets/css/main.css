@@ -16203,24 +16203,25 @@ blockquote cite::before {
 .details-content-box {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  display: flex; 
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
   -webkit-column-gap: 15px;
      -moz-column-gap: 15px;
           column-gap: 15px;
   row-gap: 15px;
   -webkit-box-align: center;
       -ms-flex-align: center;
-          align-items: center;
+          align-items: stretch;
   margin-bottom: 50px;
+
 }
 
 .service-details-item {
   background-color: var(--tj-color-common-white);
   border-radius: 10px;
   padding: 30px 17px 25px 18px;
-  max-width: 275px;
+  max-width: 200px;
   width: 100%;
 }
 .service-details-item .number {
