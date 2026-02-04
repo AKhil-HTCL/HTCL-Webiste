@@ -84,77 +84,68 @@
                                 <div class="col-lg-8">
                                     <div class="post-details-wrapper">
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-                                            <img src="assets/images/service/service-details.webp" alt="Images">
+                                            <img src="assets/images/service/soln-details7.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Empowering Your Business through Smart Digital
+                                            Solutions</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Digital Transformation Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">In today’s fast-moving business
+                                                world, staying ahead means more than keeping up—it means
+                                                transforming the way you work, serve customers, and grow your business.
+                                                Digital
+                                                transformation is no longer optional. it’s the key to efficiency,
+                                                adaptability, and profitability
+                                                across every area of your organization.</p>
+                                                <p>From streamlining financial operations to enhancing customer
+                                                experiences, the right digital
+                                                solutions can unlock new opportunities and accelerate growth. But with
+                                                so many technologies
+                                                available, choosing the perfect fit for your business can be
+                                                overwhelming.</p>
+                                                <p>That’s where we come in. In this guide, we highlight the most promising
+                                                digital transformation
+                                                solutions and show you how to select the tools that will drive real
+                                                results and lasting success for
+                                                your business.</p>
+                                                <p></p>
+                                                Digital transformation reshapes how businesses operate, make decisions,
+                                                and engage
+                                                customers. It focuses on enhancing customer experiences, automating
+                                                processes, leveraging
+                                                data for insights, and modernizing technology infrastructure. Success
+                                                also relies on fostering a
+                                                digital-first culture, ensuring cyber security, and maintaining agility
+                                                to adapt to evolving market
+                                                demands.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
-                                                experience is comprehensive
-                                                and
-                                                data-driven. We begin by assessing your
-                                                current customer touchpoints, identifying areas for improvement, and
-                                                using insights to develop
-                                                strategies that meet your customers’ evolving needs. From optimizing
-                                                digital platforms.</p>
-                                            <ul class="wow fadeInUp" data-wow-delay=".3s">
-                                                <li><span><i class="tji-check"></i></span>Personalization at Scale</li>
-                                                <li><span><i class="tji-check"></i></span>Improved Customer Retention
-                                                </li>
-                                                <li><span><i class="tji-check"></i></span>Data-Driven Insights</li>
-                                                <li><span><i class="tji-check"></i></span>Omni-channel Integration</li>
-                                                <li><span><i class="tji-check"></i></span>Customer Retention</li>
-                                                <li><span><i class="tji-check"></i></span>Support Optimization</li>
-                                                <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-3.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-13.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-4.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-14.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">The Catalyst for Business
+                                                Growth
                                             </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At HTCL Technologies, we don't
-                                                just focus
-                                                on solving customer
-                                                problems—we focus on creating experiences that
-                                                delight and build lasting relationships. Whether it's through improving
-                                                customer service
-                                                operations,
-                                                leveraging technology, or designing more engaging digital experiences,
-                                                our team is here to help
-                                                you
-                                                exceed your customers' expectations every time. We help you understand
-                                                your customers deeply,
-                                                optimize
-                                                their experience.</p>
-                                            <div class="details-content-box">
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">Digital transformation is a key
+                                                driver for business growth. By using modern technologies and
+                                                data-driven insights, businesses can work more efficiently, make smarter
+                                                decisions, and deliver
+                                                better experiences to customers. It helps organizations respond quickly
+                                                to market changes,
+                                                improve operations, and discover new opportunities. In short, digital
+                                                transformation is the
+                                                catalyst that turns potential into real, measurable growth.</p>
+                                            <!-- <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
                                                     <span class="number">01.</span>
                                                     <h6 class="title">Increased Customer <br>Satisfaction</h6>
@@ -187,7 +178,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -216,23 +207,7 @@
                                                             class="icon"><i class="tji-arrow-right"></i></span></a></li>
                                             </ul>
                                         </div>
-                                        <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
-                                            data-wow-delay=".3s">
-                                            <div class="feature-box">
-                                                <div class="feature-content">
-                                                    <h2 class="title">Modern</h2>
-                                                    <span></span>
-                                                    <a class="read-more feature-contact" href="tel: +91 9846092957">
-                                                        <i class="tji-phone-3"></i>
-                                                        <span> +91 9846092957</span>
-                                                    </a>
-                                                </div>
-                                                <div class="feature-images">
-                                                    <img src="assets/images/service/service-ad.webp" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                                                            </div>
                                 </div>
                             </div>
                         </div>

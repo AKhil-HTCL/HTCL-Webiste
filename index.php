@@ -115,8 +115,8 @@
                             <i class="tji-service-1"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Through a combination of data-driven insights and innovative approaches
-                              business.</p>
+                            <p class="desc">We deliver seamless, personalized customer experiences that build trust,
+                              loyalty, and long-term business growth.</p>
                             <a class="text-btn" href="customer-experience.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
@@ -131,8 +131,8 @@
                             <i class="tji-service-2"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Developing personalized customer journeys to increase satisfaction and
-                              loyalty.
+                            <p class="desc">We help organizations embed sustainability and ESG principles into their
+                              strategy to drive responsible growth, transparency, and long-term value.
                             </p>
                             <a class="text-btn" href="sustainability.php">
                               <span class="btn-text"><span>Learn More</span></span>
@@ -143,14 +143,14 @@
                       </div>
                       <div class="swiper-slide">
                         <div class="service-item style-6">
-                          <h4 class="title"><a href="training-development.php">Training and Development Programs</a></h4>
+                          <h4 class="title"><a href="training-development.php">Training and Development Programs</a>
+                          </h4>
                           <div class="service-icon">
                             <i class="tji-service-3"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Provide tailored strategies that not only drive long-term value but also
-                              build
-                              trust.</p>
+                            <p class="desc">We deliver training and development programs that build skills, enhance
+                              performance, and prepare talent for future industry demands.</p>
                             <a class="text-btn" href="training-development.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
@@ -165,8 +165,8 @@
                             <i class="tji-service-4"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Training Development Programs designed empower employees with skills,
-                              knowledge.
+                            <p class="desc">We provide reliable IT support and maintenance to ensure secure,
+                              uninterrupted, and high-performing business operations.
                             </p>
                             <a class="text-btn" href="support-maintenance.php">
                               <span class="btn-text"><span>Learn More</span></span>
@@ -182,9 +182,8 @@
                             <i class="tji-service-5"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Provide tailored strategies that not only drive long-term value but also
-                              build
-                              trust.</p>
+                            <p class="desc">We deliver scalable ERP solutions that automate operations, improve
+                              efficiency, and support long-term business growth.</p>
                             <a class="text-btn" href="erp-solutions.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
@@ -199,9 +198,8 @@
                             <i class="tji-service-6"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Provide tailored strategies that not only drive long-term value but also
-                              build
-                              trust.</p>
+                            <p class="desc">We deliver reliable software and IT solutions that streamline operations,
+                              enhance performance, and drive digital transformation.</p>
                             <a class="text-btn" href="software-it.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
@@ -216,9 +214,8 @@
                             <i class="tji-service-1"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Provide tailored strategies that not only drive long-term value but also
-                              build
-                              trust.</p>
+                            <p class="desc">We enable digital transformation by modernizing systems, optimizing
+                              processes, and driving innovation for sustainable business growth.</p>
                             <a class="text-btn" href="digital-transformation.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
@@ -233,9 +230,8 @@
                             <i class="tji-service-2"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Provide tailored strategies that not only drive long-term value but also
-                              build
-                              trust.</p>
+                            <p class="desc">We deliver reliable communication solutions that keep teams connected,
+                              collaboration seamless, and information flowing securely.</p>
                             <a class="text-btn" href="communication.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
@@ -250,9 +246,8 @@
                             <i class="tji-service-3"></i>
                           </div>
                           <div class="service-content">
-                            <p class="desc">Provide tailored strategies that not only drive long-term value but also
-                              build
-                              trust.</p>
+                            <p class="desc">We deliver structured project management solutions that ensure on-time
+                              delivery, controlled costs, and successful outcomes.</p>
                             <a class="text-btn" href="project-management.php">
                               <span class="btn-text"><span>Learn More</span></span>
                               <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
@@ -323,7 +318,7 @@
               <div class="swiper-slide client-item h5-client-item">
                 <div class="client-logo">
                   <img src="assets/images/brands/h5-brand-4.png" alt="">
-                                  </div>
+                </div>
               </div>
               <div class="swiper-slide client-item h5-client-item">
                 <div class="client-logo">
@@ -355,7 +350,7 @@
         <!-- end: About Section -->
 
         <!-- start: Strategy Slider -->
-        <section class="h5-strategy section-gap ">
+        <!-- <section class="h5-strategy section-gap ">
           <div class="container gap-30-30">
             <div class="row ">
               <div class="col-12">
@@ -390,7 +385,7 @@
                 <div class="h5-strategy-item h5-strategy-item-2 wow fadeInUp" data-wow-delay=".4s">
                   <h4 class="h5-strategy-title"></h4>
                   <div class="h5-strategy-chart">
-                 </div>
+                  </div>
                 </div>
               </div>
               <div class="col-12 col-lg-4">
@@ -426,86 +421,9 @@
               </div>
             </div>
           </div>
-        </section>
+        </section> -->
         <!-- end: Strategy Slider -->
-
-        <!-- start: Working process Section -->
-        <section class="h5-working-process section-gap section-gap-x ">
-          <div class="container">
-            <div class="row">
-              <div class="col-12">
-                <div class="sec-heading sec-heading-centered style-3">
-                  <span class="sub-title wow fadeInUp" data-wow-delay=".3s"><i class="tji-box"></i> OUR PROCESS</span>
-                  <h2 class="sec-title text-anim  text-white">Seamless Process and
-                    Great Results.</h2>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="h5-working-process-inner">
-            <div class="container">
-              <div class="row">
-                <div class="col-12">
-                  <div class="working-process-area h5-working-process-wrapper">
-                    <div class="process-item h5-working-process-item wow bounceInUp" data-wow-delay=".3s">
-                      <h5 class="h5-working-process-indicator">Step 01</h5>
-                      <div class="process-step">
-                        <span>01</span>
-                      </div>
-                      <div class="process-content">
-                        <h4 class="title">Discovery & Planning</h4>
-                        <p class="desc">The first step in our process is understanding your unique business needs,
-                          objectives,
-                          and our cutomes challenges.</p>
-                      </div>
-                    </div>
-                    <div class="process-item h5-working-process-item wow bounceInUp" data-wow-delay=".4s">
-                      <h5 class="h5-working-process-indicator">Step 02</h5>
-                      <div class="process-step">
-                        <span>02</span>
-                      </div>
-                      <div class="process-content">
-                        <h4 class="title">Execution & Delivery</h4>
-                        <p class="desc">Once the plan is in place, our team moves forward with execution, turning
-                          strategies
-                          into actiony to deliver.</p>
-                      </div>
-                    </div>
-                    <div class="process-item h5-working-process-item wow bounceInUp" data-wow-delay=".5s">
-                      <h5 class="h5-working-process-indicator">Step 03</h5>
-                      <div class="process-step">
-                        <span>03</span>
-                      </div>
-                      <div class="process-content">
-                        <h4 class="title">Review & Support</h4>
-                        <p class="desc">After project completion, we conduct a thorough review to ensure everything
-                          aligns
-                          with your goals and requirements.</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="bg-shape-1">
-            <img src="assets/images/shape/pattern-2.svg" alt="">
-          </div>
-          <div class="bg-shape-2">
-            <img src="assets/images/shape/pattern-3.svg" alt="">
-          </div>
-          <div class="bg-shape-3">
-            <img src="assets/images/shape/shape-blur.svg" alt="">
-          </div>
-          <div class="bg-shape-4">
-            <img src="assets/images/shape/shape-blur.svg" alt="">
-          </div>
-        </section>
-        <!-- end: Working process Section -->
-
-        <!-- start: Project Section -->
+<!-- start: Project Section -->
         <section class="h5-project">
           <div class="tj-scroll-slider  section-gap">
             <div class="container">
@@ -584,8 +502,8 @@
                             <h3 class="title"><a href="project-details.php">Bihta Airport Project</a>
                             </h3>
                           </div>
-                          <p class="desc">Managed complex CCTV Surveillance at Foxconn Elephant project at Devanahalli,
-                            bangalore
+                          <p class="desc">HTCL supported the BHITA project with reliable technology solutions, ensuring
+                            smooth execution and efficient operations.
                           </p>
                           <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
@@ -602,11 +520,12 @@
                         <div class="project-content">
                           <span class="categories"><a href="project-details.php">Business</a></span>
                           <div class="project-text">
-                            <h3 class="title"><a href="project-details.php">L & T Constructions</a>
+                            <h3 class="title"><a href="project-details.php">L & T Semi Conductor Plant</a>
                             </h3>
                           </div>
-                          <p class="desc">Managed complex CCTV Surveillance at Foxconn Elephant project at Devanahalli,
-                            bangalore
+                          <p class="desc">HTCL supported the L&T Semiconductor project with reliable technology
+                            solutions, ensuring efficient execution and high-quality outcomes aligned with project
+                            requirements.
                           </p>
                           <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
@@ -683,6 +602,83 @@
 
         </section>
         <!-- end: Project Section -->
+        <!-- start: Working process Section -->
+        <section class="h5-working-process section-gap section-gap-x ">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="sec-heading sec-heading-centered style-3">
+                  <span class="sub-title wow fadeInUp" data-wow-delay=".3s"><i class="tji-box"></i> OUR PROCESS</span>
+                  <h2 class="sec-title text-anim  text-white">Seamless Process and
+                    Great Results.</h2>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="h5-working-process-inner">
+            <div class="container">
+              <div class="row">
+                <div class="col-12">
+                  <div class="working-process-area h5-working-process-wrapper">
+                    <div class="process-item h5-working-process-item wow bounceInUp" data-wow-delay=".3s">
+                      <h5 class="h5-working-process-indicator">Step 01</h5>
+                      <div class="process-step">
+                        <span>01</span>
+                      </div>
+                      <div class="process-content">
+                        <h4 class="title">Discovery & Planning</h4>
+                        <p class="desc">The first step in our process is understanding your unique business needs,
+                          objectives,
+                          and our cutomes challenges.</p>
+                      </div>
+                    </div>
+                    <div class="process-item h5-working-process-item wow bounceInUp" data-wow-delay=".4s">
+                      <h5 class="h5-working-process-indicator">Step 02</h5>
+                      <div class="process-step">
+                        <span>02</span>
+                      </div>
+                      <div class="process-content">
+                        <h4 class="title">Execution & Delivery</h4>
+                        <p class="desc">Once the plan is in place, our team moves forward with execution, turning
+                          strategies
+                          into actiony to deliver.</p>
+                      </div>
+                    </div>
+                    <div class="process-item h5-working-process-item wow bounceInUp" data-wow-delay=".5s">
+                      <h5 class="h5-working-process-indicator">Step 03</h5>
+                      <div class="process-step">
+                        <span>03</span>
+                      </div>
+                      <div class="process-content">
+                        <h4 class="title">Review & Support</h4>
+                        <p class="desc">After project completion, we conduct a thorough review to ensure everything
+                          aligns
+                          with your goals and requirements.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="bg-shape-1">
+            <img src="assets/images/shape/pattern-2.svg" alt="">
+          </div>
+          <div class="bg-shape-2">
+            <img src="assets/images/shape/pattern-3.svg" alt="">
+          </div>
+          <div class="bg-shape-3">
+            <img src="assets/images/shape/shape-blur.svg" alt="">
+          </div>
+          <div class="bg-shape-4">
+            <img src="assets/images/shape/shape-blur.svg" alt="">
+          </div>
+        </section>
+        <!-- end: Working process Section -->
+
+        
 
         <!-- start: Testimonial Section -->
         <section class="h5-testimonial section-gap section-gap-x">
@@ -1117,100 +1113,7 @@
         </section>
         <!-- end: Maquee Area -->
 
-        <!-- start: Blog Section -->
-        <section class="h5-blog section-gap">
-          <div class="container">
-            <div class="row">
-              <div class="col-12">
-                <div class="sec-heading sec-heading-centered style-3">
-                  <span class="sub-title wow fadeInUp" data-wow-delay=".3s"><i class="tji-box"></i>READ BLOGS</span>
-                  <h2 class="sec-title text-anim">Strategies and Insights.</h2>
-                </div>
-
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-12">
-                <div class="h5-blog-wrapper ">
-                  <div class="blog-item style-2 h5-blog-item wow fadeInUp" data-wow-delay=".3s">
-                    <div class="blog-thumb">
-                      <a href="blog-details.html"><img src="assets/images/blog/h5-blog-1.webp" alt=""></a>
-                      <div class="blog-date">
-                        <span class="date">28</span>
-                        <span class="month">Feb</span>
-                      </div>
-                    </div>
-                    <div class="blog-content">
-                      <div class="title-area">
-                        <div class="blog-meta">
-                          <span class="categories"><!--<a href="blog-details.html">-->Business</a></span>
-                          <span>By<!-- <a href="blog-details.html">-->Ellinien Loma</a></span>
-                        </div>
-                        <h4 class="title"><!--<a href="blog-details.html">-->Innovative Solutions for every Business</a>
-                        </h4>
-                        <p class="desc">The curve. Whether you're looking to streamline operations, enhance customer
-                          experiences, or explore new market opportunities, our tailored solutions are designed to
-                          empower
-                          your business.</p>
-                      </div>
-                      <a class="text-btn">
-                        <span class="btn-text"><span>Read More</span></span>
-                        <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="blog-item  style-2 h5-blog-item wow fadeInUp" data-wow-delay=".4s">
-                    <div class="blog-thumb">
-                      <a href="blog-details.html"><img src="assets/images/blog/h5-blog-2.webp" alt=""></a>
-                      <div class="blog-date">
-                        <span class="date">28</span>
-                        <span class="month">Feb</span>
-                      </div>
-                    </div>
-                    <div class="blog-content">
-                      <div class="title-area">
-                        <div class="blog-meta">
-                          <span class="categories">Business</span>
-                          <span>By Ellinien Loma</a></span>
-                        </div>
-                        <h4 class="title">Mastering Change Management Lessons for
-                          Businesses.</h4>
-                      </div>
-                      <a class="text-btn">
-                        <span class="btn-text"><span>Read More</span></span>
-                        <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="blog-item style-2 h5-blog-item wow fadeInUp" data-wow-delay=".5s">
-                    <div class="blog-thumb">
-                      <a href="blog-details.html"><img src="assets/images/blog/h5-blog-3.webp" alt=""></a>
-                      <div class="blog-date">
-                        <span class="date">28</span>
-                        <span class="month">Feb</span>
-                      </div>
-                    </div>
-                    <div class="blog-content">
-                      <div class="title-area">
-                        <div class="blog-meta">
-                          <span class="categories">Business</a></span>
-                          <span>By Ellinien Loma</a></span>
-                        </div>
-                        <h4 class="title">Harnessing Digital Transform a Roadmap
-                          Businesses.</h4>
-                      </div>
-                      <a class="text-btn">
-                        <span class="btn-text"><span>Read More</span></span>
-                        <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        <!-- end: Blog Section -->
+        
       </main>
 
       <?php include('footer.php'); ?>

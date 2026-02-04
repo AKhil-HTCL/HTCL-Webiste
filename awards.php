@@ -90,8 +90,8 @@
                       <h2 class="sec-title title-anim">Empowering Business with <span>Expertise.</span></h2>
                     </div>
                     <div class="btn-wrap wow fadeInUp" data-wow-delay=".6s">
-                      <a class="tj-primary-btn" href="contact.html">
-                        <span class="btn-text"><span>Request a Call</span></span>
+                      <a class="tj-primary-btn" href="contact.php">
+                        <span class="btn-text"><span>Contact Us</span></span>
                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                       </a>
                     </div>

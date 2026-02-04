@@ -25,7 +25,16 @@
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
     </head>
+<style>
+        .details-content-box {
+            flex-wrap: wrap;
+        }
 
+        .service-details-item {
+            max-width: 250px;
+            ;
+        }
+    </style>
     <body>
         <div class="body-overlay"></div>
 
@@ -84,7 +93,7 @@
                                 <div class="col-lg-8">
                                     <div class="post-details-wrapper">
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-                                            <img src="assets/images/service/service-details.webp" alt="Images">
+                                            <img src="assets/images/service/service-details1.png" alt="Images">
                                         </div>
                                         <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
                                             Experiences.</h2>
@@ -128,12 +137,12 @@
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-3.webp" alt="Image">
+                                                            <img src="assets/images/service/service-1.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-4.webp" alt="Image">
+                                                            <img src="assets/images/service/service-2.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -213,7 +222,7 @@
                                                                         class="tji-arrow-right"></i></span></a></li>
                                                     </ul>
                                                 </div>
-                                                <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
+                                                <!-- <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
                                                     data-wow-delay=".3s">
                                                     <div class="feature-box">
                                                         <div class="feature-content">
@@ -228,7 +237,7 @@
                                                             <img src="assets/images/service/service-ad.webp" alt="">
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                             </div>

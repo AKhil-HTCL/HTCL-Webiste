@@ -239,7 +239,7 @@
                             class="tji-arrow-right-long"></i></span></a></li>
                   </ul>
                 </li>
-                <li class=""><a href="investers.php">Investors</a>
+                <!-- <li class=""><a href="investers.php">Investors</a> -->
                 </li>
                 <li class=""><a href="https://htcl.zohorecruit.in/jobs/Careers" target="_blank">Careers</a> </li>
                 <li><a href="contact.php ">Contact</a></li>
@@ -286,9 +286,9 @@
               <ul>
                 <li class="has-dropdown"><a>About Us</a>
                   <ul class="sub-menu">
-                    <li><a href="ourcompany">Our Company</a></li>
-                    <li><a href="ceo">CEO and Founders</a></li>
-                    <li><a href="awards">Awards </a></li>
+                    <li><a href="ourcompany.php">Our Company</a></li>
+                    <li><a href="ceo.php">CEO and Founders</a></li>
+                    <li><a href="awards.php">Awards </a></li>
                   </ul>
                 </li>
                 <li class="has-dropdown"><a>Solutions</a>
@@ -376,7 +376,7 @@
                             class="tji-arrow-right-long"></i></span></a></li>
                   </ul>
                 </li>
-                <li><a href="investers.php">Investors</a>
+                <!-- <li><a href="investers.php">Investors</a> -->
                 </li>
                 <li class=""><a href="https://htcl.zohorecruit.in/jobs/Careers" target="_blank">Careers</a>
                 </li>

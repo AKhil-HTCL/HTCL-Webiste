@@ -25,6 +25,16 @@
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
     </head>
+    <style>
+        .details-content-box {
+            flex-wrap: wrap;
+        }
+
+        .service-details-item {
+            max-width: 250px;
+            ;
+        }
+    </style>
 
     <body>
         <div class="body-overlay"></div>
@@ -84,105 +94,93 @@
                                 <div class="col-lg-8">
                                     <div class="post-details-wrapper">
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-                                            <img src="assets/images/service/service-details.webp" alt="Images">
+                                            <img src="assets/images/service/soln-details8.png" alt="Images">
                                         </div>
                                         <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
                                             Experiences.</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Project Management Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">We deliver comprehensive
+                                                project management solutions that enable businesses to efficiently
+                                                track tasks, manage timesheets, meet deadlines, and maintain
+                                                streamlined, up-to-date project
+                                                workflows. Effective project management is essential for delivering
+                                                projects on time, within
+                                                budget, and to the highest quality.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
-                                                experience is comprehensive and
-                                                data-driven. We begin by assessing your
-                                                current customer touchpoints, identifying areas for improvement, and
-                                                using insights to develop
-                                                strategies that meet your customers’ evolving needs. From optimizing
-                                                digital platforms.</p>
-                                            <ul class="wow fadeInUp" data-wow-delay=".3s">
-                                                <li><span><i class="tji-check"></i></span>Personalization at Scale</li>
-                                                <li><span><i class="tji-check"></i></span>Improved Customer Retention
-                                                </li>
-                                                <li><span><i class="tji-check"></i></span>Data-Driven Insights</li>
-                                                <li><span><i class="tji-check"></i></span>Omni-channel Integration</li>
-                                                <li><span><i class="tji-check"></i></span>Customer Retention</li>
-                                                <li><span><i class="tji-check"></i></span>Support Optimization</li>
-                                                <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+                                            <P>
+                                                Our solutions provide a range of benefits that help businesses operate
+                                                more efficiently. By
+                                                streamlining operations, projects stay organized and delays are
+                                                minimized. Improved
+                                                accountability ensures that teams remain on track and responsibilities
+                                                are clearly defined.
+                                                Enhanced productivity allows focus on high-priority tasks while reducing
+                                                bottle necks, and data-
+                                                driven insights support better decision-making, optimizing resources and
+                                                improving overall
+                                                project outcomes.
+                                            </P>
+
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-3.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-15.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-4.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-16.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
-                                            </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At HTCL Technologies, we don't
-                                                just focus
-                                                on solving customer
-                                                problems—we focus on creating experiences that
-                                                delight and build lasting relationships. Whether it's through improving
-                                                customer service
-                                                operations,
-                                                leveraging technology, or designing more engaging digital experiences,
-                                                our team is here to help
-                                                you
-                                                exceed your customers' expectations every time. We help you understand
-                                                your customers deeply,
-                                                optimize
-                                                their experience.</p>
+
                                             <div class="details-content-box">
+
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">Task &amp; Work Tracking:</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>Monitor progress across all projects in real time.</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Timesheet Management:</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Track employee hours and resource allocation accurately.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Deadline &amp; Milestone Management:</h6>
                                                         <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
+                                                            <p>Set reminders and alerts to meet critical deadlines.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">04</span>
+                                                        <h6 class="title">Collaboration Tools:</h6>
+                                                        <div class="desc">
+                                                            <p>Facilitate communication and file sharing across teams.
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">05</span>
+                                                        <h6 class="title">Reporting &amp; Analytics:</h6>
+                                                        <div class="desc">
+                                                            <p>Gain insights into project performance, productivity, and
+                                                                resource usage.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -217,7 +215,7 @@
 
                                             </ul>
                                         </div>
-                                        <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
+                                        <!-- <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
                                             data-wow-delay=".3s">
                                             <div class="feature-box">
                                                 <div class="feature-content">
@@ -232,7 +230,7 @@
                                                     <img src="assets/images/service/service-ad.webp" alt="">
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>

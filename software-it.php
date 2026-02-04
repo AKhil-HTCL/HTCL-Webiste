@@ -91,10 +91,9 @@
                                 <div class="col-lg-8">
                                     <div class="post-details-wrapper">
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-                                            <img src="assets/images/service/service-details.webp" alt="Images">
+                                            <img src="assets/images/service/soln-details6.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Reliable Software & IT Solutions for Modern Businesses</h2>
                                         <div class="blog-text">
                                             <p class="wow fadeInUp" data-wow-delay=".3s">We provide innovative software
                                                 and IT services that help businesses stay competitive in the
@@ -109,17 +108,17 @@
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-3.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-11.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-4.webp" alt="Image">
+                                                            <img src="assets/images/service/soln-12.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Expertise That Delivers Value and Lasting Impact
                                             </h3>
                                             <p class="wow fadeInUp" data-wow-delay=".3s">
                                             <h5>

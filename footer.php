@@ -60,7 +60,7 @@
                   <h5 class="title">Resources</h5>
                   <ul>
                     <li><a href="contact.php">Contact us</a></li>       
-                    <li><a href="investers.php">Investers</a></li>     
+                    <!-- <li><a href="investers.php">Investers</a></li>      -->
                      <li><a href="projects.php">Our Projects</a></li>                            
                     <li><a href="https://htcl.zohorecruit.in/jobs/Careers" target="_blank">Careers </a></li>
                      </ul>
