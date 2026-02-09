@@ -25,14 +25,17 @@
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
     </head>
-<style>
-            .details-content-box{
-                flex-wrap: wrap;
-            }
-            .service-details-item{
-                max-width: 250px;;
-            }
-        </style>
+    <style>
+        .details-content-box {
+            flex-wrap: wrap;
+        }
+
+        .service-details-item {
+            max-width: 250px;
+            ;
+        }
+    </style>
+
     <body>
         <div class="body-overlay"></div>
 
@@ -93,18 +96,16 @@
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
                                             <img src="assets/images/service/service-details2.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Secure & Intelligent IT Automation Services</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">We provide comprehensive IT
-                                                support and server maintenance services to ensure your business
-                                                technology runs smoothly, securely, and efficiently. Our solutions help
-                                                prevent downtime,
-                                                protect critical data, and optimize system performance, allowing your
-                                                team to focus on core
-                                                business operations.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">IT and automation services
+                                                utilize software, AI, and robotic process automation (RPA) to
+                                                streamline, manage, and execute repetitive IT tasks, reducing manual
+                                                workload, increasing efficiency, and improving system accuracy. Key
+                                                solutions include cloud management, infrastructure provisioning,
+                                                security monitoring, and AI-driven business process automation.
                                             </p>
-                                        
+
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
@@ -119,9 +120,9 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Trusted Automation Solutions for Mission-Critical Systems
                                             </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
+                                            <!-- <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
                                                 on solving customer
                                                 problems—we focus on creating experiences that
                                                 delight and build lasting relationships. Whether it's through improving
@@ -133,45 +134,68 @@
                                                 exceed your customers' expectations every time. We help you understand
                                                 your customers deeply,
                                                 optimize
-                                                their experience.</p>
+                                                their experience.</p> -->
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">IT Operations Automation</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p> Automating incident management, patch management, and server
+                                                            provisioning.</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Cloud Automation</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Managing cloud resources, provisioning, and configuration
+                                                                using platforms like Azure Automation.</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Robotic Process Automation (RPA)</h6>
                                                         <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
+                                                            <p> Using software robots (digital workers) to handle manual
+                                                                tasks like invoice processing and HR data entry.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">04</span>
+                                                        <h6 class="title">Intelligent Automation (IA):</h6>
+                                                        <div class="desc">
+                                                            <p> Combining AI, machine learning (ML), and analytics for
+                                                                complex decision-making and workflow optimization.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">05</span>
+                                                        <h6 class="title">Network Management:</h6>
+                                                        <div class="desc">
+                                                            <p> Automating network configurations and security
+                                                                monitoring.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">06</span>
+                                                        <h6 class="title">Business Process Automation (BPA)</h6>
+                                                        <div class="desc">
+                                                            <p> Streamlining cross-functional workflows like finance,
+                                                                HR, and sales. </p>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-
-
                                         </div>
-
                                     </div>
                                 </div>
                                 <div class="col-lg-4">

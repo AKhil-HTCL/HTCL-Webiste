@@ -188,7 +188,7 @@
     <!-- end: About Section -->
 
     <!-- start: Faq Section -->
-    <section class="tj-faq-section section-gap">
+    <!-- <section class="tj-faq-section section-gap">
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-lg-4">
@@ -276,7 +276,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- end: Faq Section -->
 
     <!-- start: Cta Section -->

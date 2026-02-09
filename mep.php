@@ -94,7 +94,7 @@
                                 <div class="col-lg-8">
                                     <div class="post-details-wrapper">
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-                                            <img src="assets/images/service/service-details1.png" alt="Images">
+                                            <img src="assets/images/service/service-details5.png" alt="Images">
                                         </div>
                                         <h2 class="title title-anim">Future-Ready MEP Solutions for Complex Projects
                                         </h2>
@@ -117,12 +117,12 @@
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-1.png" alt="Image">
+                                                            <img src="assets/images/service/service-9.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-2.png" alt="Image">
+                                                            <img src="assets/images/service/service-10.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>

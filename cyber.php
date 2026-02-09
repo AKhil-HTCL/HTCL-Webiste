@@ -25,6 +25,16 @@
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
     </head>
+    <style>
+        .details-content-box {
+            flex-wrap: wrap;
+        }
+
+        .service-details-item {
+            max-width: 250px;
+            ;
+        }
+    </style>
 
     <body>
         <div class="body-overlay"></div>
@@ -86,27 +96,19 @@
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
                                             <img src="assets/images/service/service-details4.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Comprehensive Cyber Security Services</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Customer Experience Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">We provide continuous
+                                                monitoring for maximum network uptime and rapid issue resolution. With
+                                                proactive risk management and L1, L2, and L3 support, we secure your
+                                                network using advanced SIEM, EDR, XDR, and top cybersecurity
+                                                tools—customized to fit your business needs.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
+                                            <p>HTCL delivers proactive cybersecurity solutions, ensuring secure systems
+                                                and data with fast threat detection and incident response. Stay
+                                                protected with our reliable, tailored strategies.
+                                            </p>
+                                            <!-- <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
                                                 experience is comprehensive
                                                 and
                                                 data-driven. We begin by assessing your
@@ -123,24 +125,24 @@
                                                 <li><span><i class="tji-check"></i></span>Customer Retention</li>
                                                 <li><span><i class="tji-check"></i></span>Support Optimization</li>
                                                 <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+                                            </ul> -->
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                                                            <img src="assets/images/service/service-9.png" alt="Image">
+                                                            <img src="assets/images/service/service-7.png" alt="Image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                                                            <img src="assets/images/service/service-10.png" alt="Image">
+                                                            <img src="assets/images/service/service-8.png" alt="Image">
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
                                             </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
+                                            <!-- <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
                                                 on solving customer
                                                 problems—we focus on creating experiences that
                                                 delight and build lasting relationships. Whether it's through improving
@@ -152,84 +154,84 @@
                                                 exceed your customers' expectations every time. We help you understand
                                                 your customers deeply,
                                                 optimize
-                                                their experience.</p>
+                                                their experience.</p> -->
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">Threat Detection and Prevention</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>Proactive monitoring and prevention of advanced cyber
+                                                            threats.</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Endpoint Security</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Protect all devices from malware and security
+                                                                vulnerabilities.</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Network Security</h6>
                                                         <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
+                                                            <p>Safeguard networks using firewalls and continuous
+                                                                monitoring.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">04</span>
+                                                        <h6 class="title">
+                                                            <h6 class="title">Data Encryption and Protection</h6>
+
+                                                            <div class="desc">
+                                                                <p>Encrypt sensitive data at rest and in transit.</p>
+                                                            </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">05</span>
+                                                        <h6 class="title">Vulnerability Assessments and Penetration
+                                                            Testing</h6>
+                                                        <div class="desc">
+                                                            <p>Identify and remediate exploitable system and application
+                                                                weaknesses.</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-
-
                                         </div>
-                                        
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
-                                            <div class="tj-main-sidebar slidebar-stickiy">
-                                                <div class="tj-sidebar-widget service-categories wow fadeInUp"
-                                                    data-wow-delay=".1s">
-                                                    <h4 class="widget-title">More services</h4>
-                                                    <ul>
-                                                           <li><a href="data-center.php">Data Center Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a  href="it-automation.php">IT Automation<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="telecom.php">Telecom Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                              <li><a href="mep.php">MEP Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="https://qcmcertifications.com/">Quality
-                                                                Consulting<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
-                                                    data-wow-delay=".3s">
-                                                    <div class="feature-box">
-                                                        <div class="feature-content">
-                                                            <h2 class="title">Modern</h2>
-                                                            <span>Home Makeover</span>
-                                                            <a class="read-more feature-contact" href="tel: +91 9846092957">
-                                                                <i class="tji-phone-3"></i>
-                                                                <span> +91 9846092957</span>
-                                                            </a>
-                                                        </div>
-                                                        <div class="feature-images">
-                                                            <img src="assets/images/service/service-ad.webp" alt="">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                    <div class="tj-main-sidebar slidebar-stickiy">
+                                        <div class="tj-sidebar-widget service-categories wow fadeInUp"
+                                            data-wow-delay=".1s">
+                                            <h4 class="widget-title">More services</h4>
+                                            <ul>
+                                                <li><a href="data-center.php">Data Center Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="it-automation.php">IT Automation<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="telecom.php">Telecom Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="mep.php">MEP Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="https://qcmcertifications.com/">Quality
+                                                        Consulting<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a>
+                                                </li>
+                                            </ul>
                                         </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -261,4 +263,4 @@
         <script src="assets/js/main.js"></script>
     </body>
 
-    </php>
+</php>

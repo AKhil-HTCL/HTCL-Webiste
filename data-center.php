@@ -25,7 +25,7 @@
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
     </head>
-<style>
+    <style>
         .details-content-box {
             flex-wrap: wrap;
         }
@@ -35,6 +35,7 @@
             ;
         }
     </style>
+
     <body>
         <div class="body-overlay"></div>
 
@@ -95,43 +96,31 @@
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
                                             <img src="assets/images/service/service-details1.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Powering Your Data with Secure Data Center Services</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Customer Experience Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">
+                                                HTCL delivers enterprise data storage solutions through tailored
+                                                strategies and robust cloud implementation. Whether you’re exploring
+                                                hybrid cloud data centers or looking for the best data center services
+                                                for enterprises, we ensure continuity, security, and
+                                                performance—leveraging analytics, AI, and a resilient, future-ready
+                                                infrastructure.</p>
+                                            <p>In a world driven by data and AI workloads, your digital infrastructure
+                                                determines your enterprise’s agility, uptime, and ability to innovate.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
-                                                experience is comprehensive
-                                                and
-                                                data-driven. We begin by assessing your
-                                                current customer touchpoints, identifying areas for improvement, and
-                                                using insights to develop
-                                                strategies that meet your customers’ evolving needs. From optimizing
-                                                digital platforms.</p>
+                                            <p>
+                                                HTCL offers AI data center campuses engineered to host high-density AI
+                                                workloads. With future-proof architecture, modern liquid cooling
+                                                capabilities, and intelligent operations, HTCL provides the foundation
+                                                you need for AI, cloud, and digital transformation.
+                                            </p>
+                                            <p class="wow fadeInUp" data-wow-delay=".3s"></p>
                                             <ul class="wow fadeInUp" data-wow-delay=".3s">
-                                                <li><span><i class="tji-check"></i></span>Personalization at Scale</li>
-                                                <li><span><i class="tji-check"></i></span>Improved Customer Retention
+                                                <li><span><i class="tji-check"></i></span>Colocation Services</li>
+                                                <li><span><i class="tji-check"></i></span>Built-to-suit data centers
                                                 </li>
-                                                <li><span><i class="tji-check"></i></span>Data-Driven Insights</li>
-                                                <li><span><i class="tji-check"></i></span>Omni-channel Integration</li>
-                                                <li><span><i class="tji-check"></i></span>Customer Retention</li>
-                                                <li><span><i class="tji-check"></i></span>Support Optimization</li>
-                                                <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
+                                                <li><span><i class="tji-check"></i></span>Green data centers</li>
+                                                <li><span><i class="tji-check"></i></span>Data Center InterConnect</li>
                                             </ul>
                                             <div class="images-wrap">
                                                 <div class="row">
@@ -147,9 +136,10 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Unlock a Host of Benefits with
+                                                CtrlS Cloud Optimize Service
                                             </h3>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
+                                            <!-- <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
                                                 on solving customer
                                                 problems—we focus on creating experiences that
                                                 delight and build lasting relationships. Whether it's through improving
@@ -161,37 +151,58 @@
                                                 exceed your customers' expectations every time. We help you understand
                                                 your customers deeply,
                                                 optimize
-                                                their experience.</p>
+                                                their experience.</p> -->
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">Lower Costs</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>Gain up to 50% cost savings by reducing cloud, software and
+                                                            operational waste expenses</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Enhanced Security</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Get advanced cybersecurity and global compliance
+                                                                capabilities to minimize risk with AI-driven threat
+                                                                response</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Future-Ready AI</h6>
                                                         <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
+                                                            <p>Unlock innovative potential with actionable AIOps-driven
+                                                                and automation-enabled services</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
+                                                    <div class="service-number">
+                                                        <span class="number">04</span>
+                                                        <h6 class="title">
+                                                            Increase Operational Efficiency</h6>
+                                                        <div class="desc">
+                                                            <p>Streamline cloud operations, improving efficiency by up
+                                                                to 35%</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
+                                                    <div class="service-number">
+                                                        <span class="number">05</span>
+                                                        <h6 class="title">
+                                                            Enhance Business Outcomes</h6>
+                                                        <div class="desc">
+                                                            <p>Align IT operations with business goals, driving
+                                                                efficiency and innovation, leading to better business
+                                                                outcomes</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -199,30 +210,30 @@
 
 
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
-                                            <div class="tj-main-sidebar slidebar-stickiy">
-                                                <div class="tj-sidebar-widget service-categories wow fadeInUp"
-                                                    data-wow-delay=".1s">
-                                                    <h4 class="widget-title">More services</h4>
-                                                    <ul>
-                                                        <li><a  href="it-automation.php">IT &
-                                                                Automation<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="telecom.php">Telecom Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="cyber.php">Cyber Security<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="mep.php">MEP Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="https://qcmcertifications.com/" target="_blank">Quality
-                                                                Consulting<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <!-- <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
+                                    <div class="tj-main-sidebar slidebar-stickiy">
+                                        <div class="tj-sidebar-widget service-categories wow fadeInUp"
+                                            data-wow-delay=".1s">
+                                            <h4 class="widget-title">More services</h4>
+                                            <ul>
+                                                <li><a href="it-automation.php">IT &
+                                                        Automation<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="telecom.php">Telecom Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="cyber.php">Cyber Security<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="mep.php">MEP Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="https://qcmcertifications.com/" target="_blank">Quality
+                                                        Consulting<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                            </ul>
+                                        </div>
+                                        <!-- <div class="tj-sidebar-widget widget-feature-item wow fadeInUp"
                                                     data-wow-delay=".3s">
                                                     <div class="feature-box">
                                                         <div class="feature-content">
@@ -238,8 +249,8 @@
                                                         </div>
                                                     </div>
                                                 </div> -->
-                                            </div>
-                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -271,4 +282,4 @@
         <script src="assets/js/main.js"></script>
     </body>
 
-    </php>
+</php>

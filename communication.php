@@ -96,27 +96,19 @@
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
                                             <img src="assets/images/service/soln-details9.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Communication is the lifeline of every business.
+                                        </h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Customer Experience Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">Poor communication skills can
+                                                hold employees back, and inefficient collaboration can cost companies
+                                                both time and money.</p>
+
+                                            <p>That’s why having a unified platform to manage both internal and
+                                                external communication has become critical for modern businesses. From
+                                                team collaboration to customer engagement, the right tools can directly
+                                                impact productivity, customer satisfaction, and overall growth.
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
+                                            <!-- <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
                                                 experience is comprehensive
                                                 and
                                                 data-driven. We begin by assessing your
@@ -133,7 +125,7 @@
                                                 <li><span><i class="tji-check"></i></span>Customer Retention</li>
                                                 <li><span><i class="tji-check"></i></span>Support Optimization</li>
                                                 <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+                                            </ul> -->
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
@@ -148,7 +140,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <!-- <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
                                             </h3>
                                             <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
                                                 on solving customer
@@ -162,41 +154,31 @@
                                                 exceed your customers' expectations every time. We help you understand
                                                 your customers deeply,
                                                 optimize
-                                                their experience.</p>
+                                                their experience.</p> -->
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
                                                     <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <h6 class="title">Internal communication solutions</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>Instant messaging, team chat, video meetings, file sharing,
+                                                            and project collaboration tools that keep employees
+                                                            connected and productive—whether in the office or working
+                                                            remotely.</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
                                                         <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <h6 class="title">External communication solutions</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Customer calls, video consultations, emails, live chat,
+                                                                social media, and CRM integrations that empower
+                                                                businesses to engage customers on their preferred
+                                                                channels.</p>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
-                                                    <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
-                                                        <div class="desc">
-                                                            <p>Our data-driven approach provides team with valuable
-                                                                insights into customer behavior,
-                                                                enabling to continual.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                                                                            </div>
                                         </div>
                                     </div>
                                 </div>

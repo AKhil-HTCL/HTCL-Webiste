@@ -93,7 +93,7 @@
               <div class="col-12">
                 <div class="copyright-content-area">
                   <div class="copyright-text">
-                    <p>&copy; 2025 <a href="index.php" target="_blank">HTCL Technologies Private Limited</a>
+                    <p>&copy; 2026 <a href="index.php" target="_blank">HTCL Technologies Private Limited</a>
                       All right reserved</p>
                   </div>
                   <div class="social-links style-3">

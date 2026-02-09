@@ -25,14 +25,17 @@
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <link rel="stylesheet" href="assets/css/main.css">
     </head>
-<style>
-            .details-content-box{
-                flex-wrap: wrap;
-            }
-            .service-details-item{
-                max-width: 250px;;
-            }
-        </style>
+    <style>
+        .details-content-box {
+            flex-wrap: wrap;
+        }
+
+        .service-details-item {
+            max-width: 250px;
+            ;
+        }
+    </style>
+
     <body>
         <div class="body-overlay"></div>
 
@@ -93,27 +96,17 @@
                                         <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
                                             <img src="assets/images/service/service-details3.png" alt="Images">
                                         </div>
-                                        <h2 class="title title-anim">Transforming Customer: Tailored Solutions for
-                                            Experiences.</h2>
+                                        <h2 class="title title-anim">Reliable & Secure Telecom Services</h2>
                                         <div class="blog-text">
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Recognize that exceptional
-                                                customer experiences are at
-                                                the
-                                                heart of every successful business. Our
-                                                Customer Experience Solutions are crafted to help you transform every
-                                                interaction your customers
-                                                have
-                                                with your brand into a meaningful and positive experience. We believe
-                                                that understanding the
-                                                customer
-                                                journey and providing personalized, seamless experiences can
-                                                significantly enhance customer
-                                                loyalty,
-                                                satisfaction, and lifetime value.Our approach to customer experience is
-                                                comprehensive and
-                                                data-driven.
+                                            <p class="wow fadeInUp" data-wow-delay=".3s">Asia Fibernet, a brand owned by
+                                                Asia Fibernet Pvt. Ltd., is a licensed Internet Service Provider that
+                                                delivers high-speed seamless internet experience, voice telephony and
+                                                other related value added services for both residential and corporate
+                                                users. With current user base spanning across Karnataka, we have
+                                                established ourselves as one of the most trusted ISPs across the state
+
                                             </p>
-                                            <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
+                                            <!-- <p class="wow fadeInUp" data-wow-delay=".3s">Our approach to customer
                                                 experience is comprehensive
                                                 and
                                                 data-driven. We begin by assessing your
@@ -130,7 +123,7 @@
                                                 <li><span><i class="tji-check"></i></span>Customer Retention</li>
                                                 <li><span><i class="tji-check"></i></span>Support Optimization</li>
                                                 <li><span><i class="tji-check"></i></span>Proactive Engagement</li>
-                                            </ul>
+                                            </ul> -->
                                             <div class="images-wrap">
                                                 <div class="row">
                                                     <div class="col-sm-6">
@@ -145,7 +138,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
+                                            <!-- <h3 class="wow fadeInUp" data-wow-delay=".3s">Our Range of Customer Services
                                             </h3>
                                             <p class="wow fadeInUp" data-wow-delay=".3s">At Bexon, we don't just focus
                                                 on solving customer
@@ -159,33 +152,35 @@
                                                 exceed your customers' expectations every time. We help you understand
                                                 your customers deeply,
                                                 optimize
-                                                their experience.</p>
+                                                their experience.</p> -->
                                             <div class="details-content-box">
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".2s">
-                                                    <span class="number">01.</span>
-                                                    <h6 class="title">Increased Customer <br>Satisfaction</h6>
+                                                    <span class="number">01</span>
+                                                    <h6 class="title">Most Reliable Network</h6>
                                                     <div class="desc">
-                                                        <p>By prov consistent, personalized experience, customers are
-                                                            more likely to feel valued a
-                                                            satisfied, which directly.</p>
+                                                        <p>Why Asia Fibernet
+                                                            Most Reliable Network
+                                                            With the entire network architecture designed on redundant
+                                                            ring topology, supported by round the clock centralized
+                                                            monitoring of network with state of the art technology
+                                                            deployment</p>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".4s">
                                                     <div class="service-number">
-                                                        <span class="number">02.</span>
-                                                        <h6 class="title">Improved Operational <br>Efficiency</h6>
+                                                        <span class="number">02</span>
+                                                        <h6 class="title">Limitless Entertainment</h6>
                                                         <div class="desc">
-                                                            <p>With our tools and strategies, your customer support
-                                                                teams can handle inquiries faster,
-                                                                while
-                                                                automated systems.</p>
+                                                            <p>Asia Fibernet brings to you the new age of entertainment
+                                                                where all your entertainment and internet comes to you
+                                                                in just one device for home</p>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
                                                     <div class="service-number">
-                                                        <span class="number">03.</span>
-                                                        <h6 class="title">Insights for Continuous Improvement</h6>
+                                                        <span class="number">03</span>
+                                                        <h6 class="title">Round the clock Customer Service</h6>
                                                         <div class="desc">
                                                             <p>Our data-driven approach provides team with valuable
                                                                 insights into customer behavior,
@@ -193,39 +188,45 @@
                                                         </div>
                                                     </div>
                                                 </div>
+                                                <div class="service-details-item wow fadeInUp" data-wow-delay=".6s">
+                                                    <div class="service-number">
+                                                        <span class="number">04</span>
+                                                        <h6 class="title">Transparency of Service</h6>
+                                                        <div class="desc">
+                                                            <p>Customer delight is our utmost priority ; Our customer
+                                                                care officers work round the clock to resolve any
+                                                                service complaints at all times.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
-
-
                                         </div>
-                                        
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
-                                            <div class="tj-main-sidebar slidebar-stickiy">
-                                                <div class="tj-sidebar-widget service-categories wow fadeInUp"
-                                                    data-wow-delay=".1s">
-                                                    <h4 class="widget-title">More services</h4>
-                                                    <ul>
-                                                        <li><a href="data-center.php">Data Center Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a  href="it-automation.php">IT &
-                                                                Automation<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        
-                                                        <li><a href="cyber.php">Cyber Security<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="mep.php">MEP Services<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                        <li><a href="https://qcmcertifications.com/" target="_blank">Quality
-                                                                Consulting<span class="icon"><i
-                                                                        class="tji-arrow-right"></i></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <
-                                            </div>
+                                    <div class="tj-main-sidebar slidebar-stickiy">
+                                        <div class="tj-sidebar-widget service-categories wow fadeInUp"
+                                            data-wow-delay=".1s">
+                                            <h4 class="widget-title">More services</h4>
+                                            <ul>
+                                                <li><a href="data-center.php">Data Center Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="it-automation.php">IT &
+                                                        Automation<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="cyber.php">Cyber Security<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="mep.php">MEP Services<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                                <li><a href="https://qcmcertifications.com/" target="_blank">Quality
+                                                        Consulting<span class="icon"><i
+                                                                class="tji-arrow-right"></i></span></a></li>
+                                            </ul>
                                         </div>
+                                        < </div>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
                     </section>
                     <!-- end: Blog Section -->
 
@@ -255,4 +256,4 @@
         <script src="assets/js/main.js"></script>
     </body>
 
-    </php>
+</php>

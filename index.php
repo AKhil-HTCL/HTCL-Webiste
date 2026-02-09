@@ -92,8 +92,8 @@
                       <h2 class="sec-title text-anim">Tailor Business Solutions for Corporates.</h2>
                     </div>
                     <div class="btn-area wow fadeInUp" data-wow-delay=".8s">
-                      <a class="tj-primary-btn" href="contact.html">
-                        <span class="btn-text"><span>Explore More</span></span>
+                      <a class="tj-primary-btn" href="contact.php">
+                        <span class="btn-text"><span>Contact Us</span></span>
                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                       </a>
                     </div>
@@ -423,7 +423,7 @@
           </div>
         </section> -->
         <!-- end: Strategy Slider -->
-<!-- start: Project Section -->
+        <!-- start: Project Section -->
         <section class="h5-project">
           <div class="tj-scroll-slider  section-gap">
             <div class="container">
@@ -473,7 +473,7 @@
                     <div class="h5-project-item-wrapper  tj-scroll-slider-item">
                       <div class="project-item h4-project-item  h5-project-item">
                         <div class="project-img">
-                          <img src="assets/images/project/h5-project-2.webp" alt="Image">
+                          <img src="assets/images/project/h5-project-2.png" alt="Image">
                         </div>
                         <div class="project-content">
                           <span class="categories"><a href="project-details.php">Business</a></span>
@@ -515,7 +515,7 @@
                     <div class="h5-project-item-wrapper  tj-scroll-slider-item">
                       <div class="project-item h4-project-item  h5-project-item">
                         <div class="project-img">
-                          <img src="assets/images/project/h5-project-7.jpg" alt="Image">
+                          <img src="assets/images/project/h5-project-7.png" alt="Image">
                         </div>
                         <div class="project-content">
                           <span class="categories"><a href="project-details.php">Business</a></span>
@@ -557,7 +557,7 @@
                     <div class="h5-project-item-wrapper tj-scroll-slider-item">
                       <div class="project-item h4-project-item  h5-project-item ">
                         <div class="project-img">
-                          <img src="assets/images/project/h5-project-4.jpg" alt="Image">
+                          <img src="assets/images/project/h5-project-4.png" alt="Image">
                         </div>
                         <div class="project-content">
                           <span class="categories"><a href="project-details.php">Business</a></span>
@@ -576,7 +576,7 @@
                     <div class="h5-project-item-wrapper tj-scroll-slider-item">
                       <div class="project-item h4-project-item  h5-project-item ">
                         <div class="project-img">
-                          <img src="assets/images/project/h5-project-5.jpg" alt="Image">
+                          <img src="assets/images/project/h5-project-5.png" alt="Image">
                         </div>
                         <div class="project-content">
                           <span class="categories"><a href="project-details.php">Business</a></span>
@@ -586,6 +586,26 @@
                           <p class="desc"> Implemented large scale DC based POE lighting System for Standard Chartered
                             Bank Kolkata as part of green initiative.
 
+                          </p>
+                          <a class="tj-primary-btn" href="project-details.php">
+                            <span class="btn-text"><span>Learn More</span></span>
+                            <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="h5-project-item-wrapper tj-scroll-slider-item">
+                      <div class="project-item h4-project-item  h5-project-item ">
+                        <div class="project-img">
+                          <img src="assets/images/project/h5-project-8.png" alt="Image">
+                        </div>
+                        <div class="project-content">
+                          <span class="categories"><a href="project-details.php">Business</a></span>
+                          <div class="project-text">
+                            <h3 class="title"><a href="project-details.php">Telecom Services</a></h3>
+                          </div>
+                          <p class="desc"> We provide reliable and scalable telecom services that ensure seamless,
+                            secure, and high-performance connectivity.
                           </p>
                           <a class="tj-primary-btn" href="project-details.php">
                             <span class="btn-text"><span>Learn More</span></span>
@@ -678,10 +698,10 @@
         </section>
         <!-- end: Working process Section -->
 
-        
+
 
         <!-- start: Testimonial Section -->
-        <section class="h5-testimonial section-gap section-gap-x">
+        <!-- <section class="h5-testimonial section-gap section-gap-x">
           <div class="container">
             <div class="row justify-content-between">
               <div class="col-12">
@@ -848,7 +868,7 @@
           <div class="bg-shape-2">
             <img src="assets/images/shape/pattern-3.svg" alt="">
           </div>
-        </section>
+        </section> -->
         <!-- end: Testimonial Section -->
 
         <!-- start: Pricing Section -->
@@ -1113,7 +1133,7 @@
         </section>
         <!-- end: Maquee Area -->
 
-        
+
       </main>
 
       <?php include('footer.php'); ?>
